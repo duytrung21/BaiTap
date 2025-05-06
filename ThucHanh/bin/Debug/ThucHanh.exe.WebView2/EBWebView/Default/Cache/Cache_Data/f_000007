@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title><![CDATA[###_DCMS_PAGE_NAME_###｜介護事業者向け業務管理システム「ファーストケア」]]></title>
+    <link>https://www.fc-soft.jp/</link>
+    <description><![CDATA[###_DCMS_PAGE_NAME_###｜ファーストケアは、介護現場の業務効率化や生産性向上を目的に作られた介護事業者向け業務管理システムです。介護現場で必要な業務に幅広く対応。すべての介護サービスでご活用いただけます。]]></description>
+    <pubDate>Tue, 06 May 2025 15:27:25 +0900</pubDate>
+    <lastBuildDate>Fri, 02 May 2025 18:29:11 +0900</lastBuildDate>
+    <generator>CMS Blue Monkey</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main"></span><font color="#ff0000"><strong>NEW</strong></font>【重要】電子請求受付システム遅延について]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20250502-KU-03/</link>
+      <description><![CDATA[4月30日より介護、障害者総合支援及び代理人申請電子請求受付システムにおいて、システムに繋がりづらい、画面遷移が遅くなるといった状況が発生しております。ご迷惑をおかけしまして申し訳ございません。上記事象の原因については調査中ですが、電子請求受付システムにアクセスされる際に本事象が発生する場合は、時間をあけて再度アクセスいただきますようお願いいたします。]]></description>
+      <pubDate>Fri, 02 May 2025 18:29:11 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main"></span><font color="#ff0000"><strong>NEW</strong></font>ファーストケア・ポータブル旧アプリ利用の制限について]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20250502-KU-01/</link>
+      <description><![CDATA[ファーストケア・ポータブル施設版・通所版・住宅版・多機能版をご利用の場合、iPadOS18.4以上に更新すると誤動作がおきることが報告されました。
+ファーストケア・ポータブル（4版統合版）以外のファーストケア・ポータブルはiPadOS18以上のバージョンアップには対応しておりません。
+ファーストケア・ポータブル（4版統合版）への移行をお願いします。
+詳しくは、<a href="https://faq.fc-soft.jp/--681442baa79922ffdd0b1a1f">こちら</a>をご確認ください。]]></description>
+      <pubDate>Thu, 01 May 2025 19:24:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main"></span><font color="#ff0000"><strong>NEW</strong></font>ファーストケアのキャラクター　ネーミングキャンペーンのお知らせ]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20250501-KU-01/</link>
+      <description><![CDATA[【ファーストケアご利用者様限定】<br />ファーストケアのキャラクターに名前をつけて豪華賞品をゲット！<br /><br />サービスサイトのリニューアルを記念して、「ネーミング＆人気投票キャンペーン」を開催中！<br />ファーストケアユーザーだけの特別賞枠をご用意しています。<br />ぜひ、あなたが考える＜ベストネーム＞をご応募ください！<br /><br />応募締切：5月9日 17：00<br />ご応募は下記ページの「専用応募フォーム」から！<br /> <a href="https://www.fc-soft.jp/campaign/y_naming2025/" rel="noopener" target="_blank">https://www.fc-soft.jp/campaign/y_naming2025/</a>]]></description>
+      <pubDate>Thu, 01 May 2025 13:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main"></span><font color="#ff0000"><strong>NEW</strong></font>【重要】ファーストケア居宅版V7.2.170をリリースしました]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20250430-KU-01/</link>
+      <description><![CDATA[バージョンアップ権限を持つユーザーでログインし、バージョンアップしてください（バージョンアップは無料です）。バージョンアップで更新できないファイルが発生した場合は、少し時間をおいて[再試行]ボタンをクリックし、再度更新をお試しください。
+【令和6年介護報酬改定】
+令和7年3月末で経過措置終了に関する確定情報に対応した、ファーストケアの確定版です。
+【ケアプランデータ連携】
+標準仕様Ver.4に対応しました。国保中央会のケアプランデータ連携システム画面でダウンロード／アップロードして連携、またはAPI連携のいずれも可能です。
+<標準仕様Ver.3からの変更点>　→ <a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/R0704_menu.pdf" target="_blank" rel="noopener">詳しくはこちら</a>をご確認ください。
+・連携する情報に、居宅サービス計画書（３表）を追加
+・連携する情報に、介護予防に関する情報を追加（介護予防サービス計画書等）
+・サービス利用票・別表で連携する情報に、TAISコード等、用具名称（機種名）を追加
+・委託のご利用者について、地域包括支援センターと居宅介護支援事業所間の連携を追加
+・連携するファイル名にサービス種別コードを追加
+※API連携とは　→ <a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/R0701_CPD_API4.pdf" target="_blank" rel="noopener">ケアプランデータ連携システム（API）機能を使った連携について</a>
+※標準仕様Ver.4の利用開始には、ファーストケアの最新版へのバージョンアップの他、国保中央会アプリのバージョンアップも必要です。リンクのご案内資料「ケアプランデータ連携について（共通版）」をご確認ください。
+・ケアプランデータ連携システムクライアントアプリ Ver.1.2.0（Ver.4 対応版）へのバージョンアップ
+・API連携の場合は連携設定用アプリ（Ver.4対応版）へのバージョンアップ
+【機能追加】
+●介護保険最新情報<a href="https://www.mhlw.go.jp/content/001157205.pdf" target="_blank" rel="noopener">Vol.1178</a>で提示された新しい「課題分析標準項目」に基づく「標準アセスメント」が作成できるようになりました。
+　従来の標準アセスメントは《アセスメント》〈旧アセスメント〉にタブ名を変更しました。
+　初回作成時のみ、旧アセスメントから複写して作成できます。旧アセスメントの内容を編集して複写した項目がございます。複写後はすべての項目をよくご確認ください。]]></description>
+      <pubDate>Wed, 30 Apr 2025 10:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main"></span>【重要】「国保連からのお知らせ」電子請求受付システム次期システムへの移行に伴うシステムの一時停止について]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20250425-KU-01/</link>
+      <description><![CDATA[国保連合会よりシステム変更に伴うシステムの一時停止情報が配信されております。これにより想定し得る影響についてご連絡させて頂きます。
+
+①所属の国保連合会より送信される通知類（支払決定額通知書や審査結果等）の受信において遅延が発生する可能性がございます。
+・2025/4/25～2025/4/27に送信される通知文書類は4/30以降に受信可能です
+・2025/4/28～2025/5/6に送信される通知文書類は5/7以降に受信可能です
+※送信時期については、所属の国保連合会にご確認ください（通知をみる＞国保連からのお知らせで確認できる場合もございます）。
+②以下の期間中は、返戻(保留)となった請求明細書や給付管理票の照会ができないため、国保連合会側にて問合せ対応ができない可能性がございます。
+・2025/4/28～2025/5/6
+③ケアプランデータ連携システムにログインできません。
+・2025/4/25～2025/4/29
+④科学的介護情報システム（LIFE）へのログインを必要とする機能がご利用いただけません。
+・2025/4/25～2025/4/29
+
+通常月とは異なりますので、ご留意ください。]]></description>
+      <pubDate>Fri, 25 Apr 2025 10:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main"></span>【重要】ファーストケア・ポータブル４版統合版 V1.0.3をリリースしました]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20250421-KU-02/</link>
+      <description><![CDATA[ファーストケアポータブル４版統合版 V1.0.3をApp Storeにて公開しました。アプリの更新はiPad本体「AppStore」に順次通知されます。未送信の記録がある場合は、送信し一旦ログアウトしてからバージョンアップしてください。
+【機能改善】
+●経過記録作成時、カメラアイコンから直接撮影した写真をそのまま記録に使用した場合に、写真サイズが固定されない問題に対応しました。]]></description>
+      <pubDate>Mon, 21 Apr 2025 11:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main"></span>【重要】スマート伝送　メンテナンスのお知らせ（令和7年4月16日）]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20250415-KU-01/</link>
+      <description><![CDATA[■メンテナンス日時 　2025年4月16日(水) 21:00 ～ 2025年4月17日(木) 08:00
+メンテナンス実施中は、スマート伝送のすべての機能がご利用いただけません。
+（トータルマネジメントで国保連伝送機能をご利用の場合を含みます）
+<br>
+お忙しいところ、皆様にはご不便、ご迷惑をお掛けします。
+ご理解、ご協力の程よろしくお願いいたします。
+
+→メンテナンスは終了いたしました。]]></description>
+      <pubDate>Tue, 15 Apr 2025 10:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】ファーストケア居宅版V7.2.160をリリースしました]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20250402-KU-01/</link>
+      <description><![CDATA[●新しいHPが公開になります！
+最新情報やサービス内容、会社概要などを分かりやすく掲載しております。今後とも、皆様にとって有益な情報をお届けできるよう努めてまいります。ぜひ一度ご覧ください。<br>
+また24時間365日ご利用いただける新たなFAQツールを公開しました。ファーストケア画面右上「？」マークをクリックいただくとFAQツールに接続できます。
+これまで通りヘルプデスクもご利用いただけますが、窓口が混み合っている際や、受付時間外などもぜひご利用ください。iPadやスマートフォンでもご利用いただけます。FAQツールのご不明点はヘルプデスク9番へお問合せください。
+<br>
+●ファーストケアver.7.2.160（令和6年介護報酬改定経過措置終了対応版）は、厚生労働省発出の介護報酬改定（改定案）をもとにご提供しております。正式発表・解釈通知等の発表に合わせ、<span style="color: #ff0000;">4月末にバージョンアップを予定</span>しております。]]></description>
+      <pubDate>Wed, 02 Apr 2025 10:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】ファーストケア居宅版V7.2.150（令和6年介護報酬改定経過措置終了対応版）をリリースしました]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20250318-KU-01/</link>
+      <description><![CDATA[【令和6年度介護報酬改定】　注意事項や操作のご案内は、こちらをご確認ください。　→　<a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/R0703_menu.pdf">「令和6年介護報酬改定経過措置終了対応版　操作のご案内」</a>
+●令和6年介護報酬改定の経過措置終了に伴い、令和7年4月以降に算定する加減算、加算の単位数変更等に対応しました。
+●介護職員等処遇改善加算Ⅴは令和7年3月で終了です。4月以降に算定する介護職員等処遇改善加算を《各種登録情報》〈事業所情報〉［事業所体制値］で必ず設定してください。
+●居宅サービス計画書6表（利用票・提供票）に福祉用具貸与の「TAIS・届出コード」を出力するようになりました。
+●高齢者住宅で提供する食事について、消費税の軽減税率の対象となる金額基準の変更に対応しました。一食当たり670円以下が690円以下に、１日累計2,010円までが2,070円までに変わります。食事代を軽減税率の対象とするためには、設定が必要です。
+軽減税率の設定は、こちらをご確認ください。　→　<a href="https://faq.fc-soft.jp/--677bc0ae2a5cc00cf9984eb3">「軽減税率（8%）の食事を設定するには？」</a>
+
+【機能改善】
+●居宅支援の予防サービス計画書で被保険者証情報を参照するとき、計画書の作成日時点で有効な被保険者証から取得するのではなく、最新の被保険者証を取得するよう変更しました。
+●価格が未設定の貸与品が登録されていると、福祉用具計画書を新たに作成できない問題に対応しました。
+
+※ファーストケアver.7.2.150（令和6年介護報酬改定経過措置終了対応版）は、厚生労働省発出の介護報酬改定（改定案）をもとにご提供しております。リリース時点では"改定案"の状態であることをあらかじめご了承ください。正式発表・解釈通知等の発表に合わせ、バージョンアップを予定しております。
+※日常生活支援総合事業は令和7年4月対応の単位数表マスタが必要です。保険者のホームページなどで公開状況をご確認いただき、公開された単位数表マスタをファーストケアへ取り込んでください。ファーストケアへの取り込みは、こちらをご確認ください。　→　<a href="https://faq.fc-soft.jp/--676cefba662649cbec01de5a?from_embedding_search=true">「日常生活支援総合事業　地域独自サービスコード、単位数を取り込むには？」</a>]]></description>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>ケアプランデータ連携（API）機能のご案内]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20250312-RS-01/</link>
+      <description><![CDATA[ファーストケアの現バージョン（居宅版V7.2.140、施設版V7.2.100）でご利用をお待ちいただいている国保中央会のケアプランデータ連携システムとのAPI連携機能について、国保中央会の準備が整ったため、ご利用いただけるようになりました。
+ 
+ API連携機能は従来の操作にくらべ、大変シンプルな操作で連携が可能です。ぜひ、ご利用をご検討ください。
+  API連携の仕組みと操作はこちら↓をご確認ください。
+  → <a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/R0701_CPD_API.pdf" target="_blank" rel="noopener">https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/R0701_CPD_API.pdf</a>
+ 
+<br>
+  ※API連携のご利用にはファーストケアがインストールされているパソコンとケアプランデータ連携クライアントアプリがインストールされているパソコンに、国保中央会が提供する連携設定用アプリ（API機能利用のためのアプリ）のインストールと設定が必要です。連携設定用アプリのマニュアル、インストーラ等のダウンロードもリンク資料の中で、ご案内しています。]]></description>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】令和6年度介護報酬改定 令和7年4月から施行される改定項目について]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20250310-KU-01/</link>
+      <description><![CDATA[令和6年度介護報酬改定で、1年間の経過措置により令和7年4月から施行される改定項目がございます。
+ 【主な改定項目】
+ １．訪問系サービスの業務継続計画未策定減算、ショート・多機能系サービスの身体拘束廃止未実施減算の適用開始
+ ２．入所系サービスの協力医療機関連携加算の単位数変更
+ ３．介護職員等処遇改善加算（Ⅴ）の終了
+ ４．利用票・提供票に福祉用具貸与品のTAISコードまたは届出コードを出力する
+ ５．高齢者住宅で提供する食事について、消費税の軽減税率の対象となる金額基準の変更
+ 
+ ファーストケアは改定に対応するよう準備を進めております。
+現在のご提供時期は、
+ ファーストケア居宅版：<strong>3月17日週</strong> 準備でき次第
+ ファーストケア施設版：<strong>3月31日週</strong> 準備でき次第
+  を予定しています。いま少しお待ちください。
+ 
+ なお、3/10（月）時点で厚生労働省から正式なサービスコードや単位数がまだ公開されておりません。
+  正式な情報の公開時期により、ファーストケアのご提供時期は変更する場合がございます。ご了承ください。]]></description>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】ファーストケア・ポータブル４版統合版 V1.0.2をリリースしました]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20250307-KU-01/</link>
+      <description><![CDATA[ファーストケアポータブル４版統合版 V1.0.2をApp Storeにて公開しました。アプリの更新はiPad本体「AppStore」に順次通知されます。
+未送信の記録がある場合は、送信し一旦ログアウトしてからバージョンアップしてください。
+【新機能】
+●バージョンアップ時に接続先情報が削除されてしまう問題に対応しました。
+●一年間の体重推移が「体重推移グラフ」で確認できるようになりました。 → <a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/FCP4_Weight_Graph.pdf" target="_blank" rel="noopener">体重グラフの使い方</a>
+●ケア記録一覧に、連携するアイホン株式会社 ナースコール「Vi-nurse」から取得した呼出履歴を表示できるようになりました。
+ ※下記のアプリでは体重推移グラフの機能提供はございません。新アプリ「ファーストケア・ポータブル」にてご利用ください。
+・ファーストケア・ポータブル施設版
+・ファーストケア・ポータブル通所版
+・ファーストケア・ポータブル住宅版
+・ファーストケア・ポータブル多機能版
+ 新アプリへの切り替えについてご不明な点はお気軽にお問合せください。]]></description>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>ケアプランデータ連携システム フリーパスキャンペーン説明会（国保中央会主催）のご案内]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20250307-RS-01/</link>
+      <description><![CDATA[居宅介護支援事業所と居宅サービス提供・施設サービス事業所間で利用票・提供票（実績報告）や居宅サービス計画書をデータ連携するケアプランデータ連携システムの利用促進のために、国保中央会が「令和7年度について無料で利用できるフリーパスキャンペーン」を実施します。キャンペーンの実施にあたり、国保中央会主催のオンライン説明会が行われます。
+ ケアプランデータ連携をまだご利用でない事業所の皆様は、説明会へのご参加とケアプランデータ連携のご利用をご検討ください。
+また、<strong>既にご利用中の事業所もキャンペーンの対象です。</strong>説明会はケアプランデータ連携の利活用に関する講演や活用されている事業所の体験談があり、既にご利用になっている事業所の皆様にも参考になる内容です。
+<strong><span style="color: #ff0000;">日時：2025年3月14日（金）13:30～15:00</span></strong>
+説明会の詳細、参加方法は下記介護保険最新情報をご確認ください。
+<a href="https://www.mhlw.go.jp/content/001433976.pdf" target="_blank" rel="noopener">ケアプランデータ連携システムフリーパスキャンペーンについて</a>
+※ケアプランデータ連携は介護テクノロジー補助金の補助要件の一つです。ケアプランデータ連携標準仕様に対応しているとともに、接続APIの開発に積極的であることも求められています。ファーストケアは「API連携に対応」いたします。
+※現在、お使いいただいているファーストケアは、ケアプランデータ連携システムと連携するための機能を既にご提供しています。ケアプランデータ連携システムと、人手を介して連携もしくは自動で連携（ＡＰＩ連携）のどちらも可能です。]]></description>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】ファーストケア・ポータブル４版統合版 V1.0.1をリリースしました]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20250305-KU-01/</link>
+      <description><![CDATA[<strong><span style="color: #ff0000;">バージョンアップすると接続先が削除される障害が報告されました。バージョンアップはお待ちください。</span></strong>
+既にバージョンアップされた端末は、大変申し訳ございませんが、接続先を再度設定してください。ご迷惑をおかけいたします。
+<strong>新規インストールは可能です。</strong>
+－－－
+ファーストケアポータブル４版統合版 V1.0.1をApp Storeにて公開しました。アプリの更新はiPad本体「AppStore」に順次通知されます。
+ 未送信の記録がある場合は、送信し一旦ログアウトしてからバージョンアップしてください。
+【新機能】
+●一年間の体重推移が「体重推移グラフ」で確認できるようになりました。 → <a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/FCP4_Weight_Graph.pdf" target="_blank" rel="noopener">体重グラフの使い方</a>
+●ケア記録一覧に、連携するアイホン株式会社 ナースコール「Vi-nurse」から取得した呼出履歴を表示できるようになりました。
+※下記のアプリでは体重推移グラフの機能提供はございません。新アプリ「ファーストケア・ポータブル」にてご利用ください。
+・ファーストケア・ポータブル施設版
+・ファーストケア・ポータブル通所版
+・ファーストケア・ポータブル住宅版
+・ファーストケア・ポータブル多機能版
+ 新アプリへの切り替えについてご不明な点はお気軽にお問合せください。]]></description>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】アサインモバイルV1.1.5 リリースのご案内]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20250212-KU-01/</link>
+      <description><![CDATA[iPhone、iPadでご利用の場合は「AppStore」に通知が表示されたら更新してください。
+ 
+ Androidでご利用の場合は「Google Play ストア」でアップデートします。
+ 
+ 未送信の記録がある場合は、送信して一旦ログアウトしてからアプリを更新してください。
+ 
+ <strong><span style="color: #004cff;">■共通</span></strong>
+ 
+ ●ケア記録一覧で、経過記録に添付した写真を拡大表示できるようになりました。経過記録を表示後、写真をタップすると拡大表示します。また、経過記録を「写真あり」の記録だけで検索表示できるようになりました。
+ 
+ 
+ 
+ <strong><span style="color: #004cff;">■訪問看護</span></strong> 
+ 
+ 新機能と機能改善はこちら↓をご確認ください。
+ 
+ <a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/AssignPro/PDF/AM_202502.pdf" target="_blank" rel="noopener">訪問看護 新機能と機能改善のご案内（タブレット用）</a> <a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/AssignPro/PDF/AM_202502_i.pdf" target="_blank" rel="noopener">訪問看護 新機能と機能改善のご案内（モバイル用）</a>&nbsp;
+ 
+ 【ご注意ください】
+ 
+ アサインポータブルは保守終了のため、アサインモバイルで提供する新機能やiPadOS18は対応いたしません。アサインモバイルへの移行をご検討ください。]]></description>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】アサインPro V1-2.4.0.1 リリースのお知らせ 2025年2月12日（水）]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20250210-KU-01/</link>
+      <description><![CDATA[ファーストケアのオプションサービス「アサインPro」におきまして、下記日程でバージョンアップを含むメンテナンスを行います。
+  【メンテナンス日時】
+2025年2月12日（水）18:00～20:00 <strong><span style="color:#ff0000;">メンテナンスは終了しました。</span></strong>
+ 【機能改善】 操作のご案内はこちらから → <strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/AssignPro/PDF/AP_202502.pdf" target="_blank" rel="noopener">機能改善のご案内</a></strong>
+ ●訪問予定（職員 日時）にて担当者を割り当てる／割り当て変更をするとき、オーダー対応職員選択画面を資格で絞込できるようになりました。
+●訪問看護の訪問予定が介護保険か医療保険か、区別ができるようになりました。
+医療保険の訪問予定は同時に公開するアサインモバイルV1.1.5以降で表示・記録の登録が可能です。
+公開後、速やかにバージョンアップを行ってください。]]></description>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】ファーストケア居宅版V7.2.140をリリースしました]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20250128-KU-01/</link>
+      <description><![CDATA[バージョンアップ権限を持つユーザーでログインし、バージョンアップしてください（バージョンアップは無料です）。バージョンアップで更新できないファイルが発生した場合は、少し時間をおいて[再試行]ボタンをクリックし、再度更新をお試しください。
+ 【令和6年度介護報酬改定】
+●令和6年度介護報酬改定「介護予防支援業務に係る関係様式例の提示」に対応した介護予防サービス計画書を作成できるようになりました。あわせて令和7年4月からケアプランデータ連携を行うための事前準備機能をご提供いたします。詳しくはこちらをご確認ください。 → <strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/R0701_YobouPlan.pdf" target="_blank" rel="noopener">「令和6年版 介護予防サービス計画書について」</a></strong>
+●令和6年度介護報酬改定を反映した「ふくせん福祉用具サービス計画書」、「ふくせんモニタリングシート」に対応しました。 → <strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/R0701_Fukusen.pdf" target="_blank" rel="noopener">「令和6年版 ふくせん福祉用具サービス計画書について」</a></strong>
+<br>
+【ケアプランデータ連携】
+●月間個人実績・月間個人予定画面でケアプランデータ連携で取得した提供票情報の取込・反映状況を確認できるなどの機能改善を行いました。 → <strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/R0701_CPD.pdf" target="_blank" rel="noopener">「ケアプランデータ連携の機能改善」</a></strong>
+<br> 
+【訪問看護オンライン請求】詳しい操作はこちらをご確認ください。 → <strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/R0601_kango.pdf" rel="noopener" target="_blank">訪問看護変更点のご案内</a></strong>
+●複数の医療機関から指示書が出た場合に、２人目・３人目の主治医情報を入力できるようになりました。様式４の２で請求する場合は、従来どおり「備考」に入力してください。
+●同日２回以上訪問したときに、緊急訪問の場合は複数回訪問としてカウントしないようになりました。
+●医療オンライン請求の印刷オプション『「実日数」欄の公費分が保険分と同日数の場合も記載する』の仕様を変更しました。実日数とともに、請求額も出力します。
+<br> 
+【訪問看護アサインモバイル】
+●アサインモバイルで訪問看護計画書・訪問看護報告書と訪問看護指示書を紐づけしても、ファーストケアにダウンロードすると紐づいていない場合がある問題に対応しました。
+<br> 
+【機能改善】
+●月間個人実績で更新すると、利用者基本情報のサービス中止日付と中止の理由がクリアされてしまう問題に対応しました。
+●アイホン株式会社 ナースコール「Vi-nurse」との連携を拡大しました。従来は利用者情報のみ連携していましたが、ナースコールの呼出履歴を取得し、ファーストケアのケア記録で表示できるようになりました。ファーストケアと連携可能な「Vi-nurse」のバージョンなど、詳細は弊社営業部までお問い合わせください。
+●令和6年11月20日付けの傷病名マスターを取り込みました（定期更新）。]]></description>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】「ファーストケア・ポータブル」４版統合版をリリースしました]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20241224-KU-01/</link>
+      <description><![CDATA[いつも「ファーストケア・ポータブル」をご利用いただき、ありがとうございます。
+みつばち通信やビーシステムウェビナーでもご紹介していた 「ファーストケア・ポータブル」４版統合版をリリースいたしました！
+ 「ファーストケア・ポータブル」は施設版・住宅版・通所版・多機能版に分かれていた4つのカテゴリーを統一し、より使いやすくアップデートしました。
+■主な改善内容
+・カテゴリーごとの機能を統一
+・操作性向上（入力時のタップ回数を削減）
+・スムーズな操作を実現
+
+ 詳しくは、以下の資料をご覧ください
+ <a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/2024_FCP_brochure_web.pdf" target="_blank" rel="noopener">「ファーストケア・ポータブル」４版統合版カタログ</a>
+ <a href="https://www.fc-soft.jp/image/2024_みつばち通信年末特別号.pdf" target="_blank" rel="noopener">みつばち通信年末特別号</a> 「ファーストケア・ポータブル４版統合版のご案内」ウェビナー動画をご確認いただけます。
+ 
+ ■ 新しい「ファーストケア・ポータブル」への移行方法はこちら<a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/FCP4_iko.pdf" target="_blank" rel="noopener">「ファーストケア４版統合版への移行」</a>をご確認ください。
+ 現在お使いの「ファーストケア・ポータブル」からの移行はとても簡単です！ 追加費用なしでそのまま使えます。
+ ■ご注意ください
+ 現行版は、iPadOS 18に対応しておらず、今後の新機能や不具合対応も行いません。ぜひ新アプリへの移行をお願いいたします！]]></description>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】アサインPro V1-2.3.9  リリースのお知らせ　2024年12月16日（月）]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20241212-KU-01/</link>
+      <description><![CDATA[ファーストケアのオプションサービス「アサインPro」におきまして、下記日程でバージョンアップを含むメンテナンスを行います。
+【メンテナンス日時】　<strong><span style="color: #ff0000;">2024年12月16日（月）18:00～20:00</span></strong>
+<br>
+【機能改善】
+●ファーストケアから連携したスケジュールが複数名訪問の場合、基本オーダー（週間計画）編集・基本オーダー設定（月間計画）画面も複数名訪問登録用ダイアログで初期表示します。
+　日常生活支援総合事業・医療訪問看護は除きます。
+●訪問予定、訪問実績画面表示時の処理効率を改善しました。]]></description>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>みつばち通信年末特別号を発行しました]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/2021220-SU-01/</link>
+      <description><![CDATA[今回は、多くの方に見ていただきたく、2025年のカレンダーとともに郵送させていただきました！
+是非、事業所のみなさまでご確認ください。
+●ファーストケア・ポータブル4版統合版のご紹介
+12月16日現在、Apple社でリリース前の審査中です。いま少しお待ちください。
+●Bee Partnersのご紹介
+●2024年リリース情報について
+（【ファーストケア】【ファーストケア・ポータブル】【アサインPro・アサインモバイル】【Bee Partners】）
+ 今年、追加・改善した主な機能をまとめました。今一度確認し、活用していただけると幸いです。
+<br>
+ みつばち通信はこちらをクリックしても、ご確認いただけます。 → <a href="https://firstcare-bee.com/mitsubachi" target="_blank" rel="noopener">みつばち通信</a>]]></description>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】ファーストケア居宅版V7.2.130をリリースしました]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20241127-KU-01/</link>
+      <description><![CDATA[バージョンアップ権限を持つユーザーでログインし、バージョンアップしてください（バージョンアップは無料です）。バージョンアップで更新できないファイルが発生した場合は、少し時間をおいて[再試行]ボタンをクリックし、再度更新をお試しください。
+
+【機能改善】
+●訪問看護　《実績管理》〈月間個人実績〉［療養費明細書情報］特記事項等・その他タブ　「公費負担額編集」ボタンが表示されず、公費にかかわる負担金額が変更できない問題に対応しました。]]></description>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】ファーストケア居宅版V7.2.120をリリースしました]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20241126-KU-01/</link>
+      <description><![CDATA[バージョンアップ権限を持つユーザーでログインし、バージョンアップしてください（バージョンアップは無料です）。バージョンアップで更新できないファイルが発生した場合は、少し時間をおいて[再試行]ボタンをクリックし、再度更新をお試しください。
+
+【新機能】
+令和6年版「ハビリテーションマネジメントにおけるプロセス管理票」を出力できるようになりました。
+→《サービス計画》〈リハビリ計画〉［プロセス管理票］
+※今までのプロセス管理票は、ボタン名が［プロセス管理票（R03）］になりました。
+<br>
+【機能改善】
+●訪問看護医療保険オンライン請求システムの仕様変更および、疑義照会の回答による仕様変更に対応しました。　
+●介護予防通所リハ　退院時共同指導加算を算定すると、介護給付費明細書（様式２の２）が正しく出力されない問題に
+　対応しました。
+●ご利用者を無効にすると、居宅介護支援版の加減算設定が正しく表示されない問題に対応しました。]]></description>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】アサインモバイルV1.1.3 リリースのお知らせ　2024年10月31日（木）]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20241031-KU-01/</link>
+      <description><![CDATA[Androidでご利用の場合は「Google Play ストア」でアップデートします。
+iPhone、iPadでご利用の場合は「AppStore」に通知が表示されたら更新してください。
+未送信の記録がある場合は、送信して一旦ログアウトしてからアプリを更新してください。
+【新機能】
+アサインProで権限を付与した職員は、他職員の訪問予定の閲覧、訪問する職員や時間の変更、未割当の訪問予定を割り当てることができるようになりました。
+外出先や移動中に、職員の訪問予定を閲覧・編集することができます。
+詳しい操作は、こちらをご確認ください。　→　<a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/AssignPro/PDF/order_update.pdf">他職員の訪問予定を閲覧・編集します</a>
+<br>
+【iOS18、iPadOS18へのバージョンアップについて】
+弊社での動作確認を行いました。
+<span style="color: #ff0000;">端末をiOS18、iPadOS18へバージョンアップして、アサインモバイルをご利用いただけます。</span>
+（アサインモバイル以外のアプリもインストールしている場合は、そのアプリの対応状況をご確認ください）
+<br>
+【Android OSでのご利用について】
+アサインモバイルはAndroid OS14、Android OS15（最新）が搭載されたモバイル端末でもご利用いただけます。]]></description>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】ファーストケア居宅版V7.2.110をリリースしました]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20241028-KU-01/</link>
+      <description><![CDATA[バージョンアップ権限を持つユーザーでログインし、バージョンアップしてください。（バージョンアップは無料です）
+バージョンアップで更新できないファイルが発生した場合は、少し時間をおいて[再試行]ボタンをクリックし、再度更新をお試しください。
+
+【機能改善】
+●通所リハビリテーションの実績集計表が令和6年6月の介護報酬改定に対応していない問題に対応しました。
+　また、ご利用が3時間未満の要支援利用者が集計対象外となる問題に対応しました。
+●月の途中で公費が開始または終了する場合に、国保連請求様式が正しく出力されないことがある問題に対応しました。
+●訪問看護医療保険オンライン請求システムの仕様変更および、疑義照会の回答による仕様変更に対応しました。　
+●ログイン時のメンテナンス処理を見直し、システムの負荷を軽減しました。]]></description>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】アサインPro V1-2.3.8  リリースのお知らせ　2024年10月24日（木）]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20241022-KU-01/</link>
+      <description><![CDATA[ファーストケアのオプションサービス「アサインPro」におきまして、下記日程でバージョンアップを含むメンテナンスを行います。
+【メンテナンス日時】　2024年10月24日（木）18:00～20:00　<strong><span style="color: #ff0000;">メンテナンスは終了しました。</span></strong>
+<br>
+【機能改善】
+●利用者名や職員名を検索するときに、「姓」と「名」の間の空白を除いて検索するようになりました。
+●訪問予定のキャンセルは「確定済」の訪問予定に対してのみ有効となるよう変更しました。
+　アサインモバイルと動作・表示を合わせています。
+●訪問予定表（職員　日時）画面で、「資格」による絞り込みができるようになりました。→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/AssignPro/PDF/select_shikaku.pdf" target="_blank" rel="noopener">資格で絞り込みする</a></strong>]]></description>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】ファーストケア居宅版V7.2.100をリリースしました]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240930-KU-01/</link>
+      <description><![CDATA[バージョンアップ権限を持つユーザーでログインし、バージョンアップしてください。（バージョンアップは無料です）
+バージョンアップで更新できないファイルが発生した場合は、少し時間をおいて[再試行]ボタンをクリックし、再度更新をお試しください。
+
+【看護医療オンライン請求】
+利用者名に環境依存文字や外字が含まれているとオンライン請求でエラーになる問題に対応しました。《利用者情報》〈基本情報〉にて利用者名を入力する欄の項目名「氏名」をクリックしてください。常用漢字の利用者名を設定すると、オンライン請求データは常用漢字で作成します。医師名に環境依存文字や外字が含まれる場合は、既存の医師名入力欄に常用漢字で入力してください。
+こちらをご確認ください。　→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/joyoName.PNG" target="_blank" rel="noopener">常用漢字氏名の設定</a></strong>
+【LIFE】
+●科学的介護情報を帳票出力できるようになりました。
+【機能改善】
+●日常生活支援総合事業（A3：訪問型独自定率、A4：訪問型独自定額、A7：通所型独自定率、A8：通所型独自定額）において、マイナス単位数になる　減算分（例えば「高齢者虐待防止措置未実施減算」）が予定一覧表示・実績一覧表示に含まれない問題に対応しました。
+●《サービス計画》〈リハビリ〉［リハビリテーション計画書］目標タブの「ご利用者・ご家族への説明欄　説明担当者」を入力しても保存されない問題に対応しました。
+●《請求管理》〈国保連請求〉において、必要な「単位数」が出力されない場合がある問題に対応しました。
+●《日常業務》〈通所日付別〉でご利用状況をCSV出力するときに、出力対象の絞り込みができるようになりました。
+　＊欠席・キャンセルを除く：出欠席のステータスが「欠席」「キャンセル」の利用者を出力対象から除外します
+　＊実績が「〇」の利用者のみ出力する：週間、予定が○でも実績が○以外の利用者を出力対象から除外します
+●介護施設送迎支援システム「うぇるなび」とのシステム連携が便利になりました。
+　＊来所者スケジュールを出力するとき、利用者情報も一緒に出力します。
+　＊期間を指定して出力すると、１日１ファイルで出力します。
+　事前に設定が必要です。こちらをご確認ください。　→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/V7.2.100_oshirase.pdf" target="_blank" rel="noopener">便利になった「うぇるなび連携」</a></strong>
+●パナソニック送迎支援サービス 「DRIVEBOSS」とシステム連携できるようになりました。]]></description>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】ファーストケア居宅版V7.2.090をリリースしました]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240829-KU-01/</link>
+      <description><![CDATA[バージョンアップ権限を持つユーザーでログインし、バージョンアップしてください。（バージョンアップは無料です）
+バージョンアップで更新できないファイルが発生した場合は、少し時間をおいて[再試行]ボタンをクリックし、再度更新をお試しください。
+
+【LIFE関連】
+新LIFE仕様に基づき、以下の様式が登録できるようになりました。旧LIFE仕様で登録した様式は、新LIFE様式（令和6年版）に変換します。詳しい操作はそれぞれのご案内資料をご確認ください。
+●リハビリテーション計画書　→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/UserSupport/8.rihabirikeikakuChange.pdf" target="_blank" rel="noopener">「令和6年版リハビリテーション計画書への変換について」</a></strong>
+自由入力欄のLIFEに提出する文字数は、こちらをご確認ください。　→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/UserSupport/8.rihabirikeikakumoji.pdf" target="_blank" rel="noopener">「リハビリテーション計画書の提出文字数について」</a></strong>
+
+●口腔機能向上サービスに関する計画書　→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/UserSupport/23.koukuukinouChange.pdf" target="_blank" rel="noopener">令和6年版口腔機能向上サービスに関する計画書への変換について</a></strong>
+自由入力欄のLIFEに提出する文字数は、こちらをご確認ください。　→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/UserSupport/23.koukuukinoumoji.pdf" target="_blank" rel="noopener">口腔機能向上サービスに関する計画書の提出文字数について</a></strong>
+
+●排せつ支援計画書　→　<span class="sc-iGgWBj dVSjCO" data-cwtag="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/UserSupport/25.haisetsuChange.pdf"><strong><a class="sc-fqkvVR sc-dcJsrY gQycbC eArBMF trimLinkComponent" title="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/UserSupport/25.haisetsuChange.pdf" href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/UserSupport/25.haisetsuChange.pdf" target="_blank" rel="noopener noreferrer">令和6年版　排せつの状態に関するスクリーニング・支援計画書への変換について</a></strong></span>
+
+●褥瘡対策に関するスクリーニング・ケア計画　→　<span class="sc-iGgWBj dVSjCO" data-cwtag="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/UserSupport/26.jokusouChange.pdf"><strong><a class="sc-fqkvVR sc-dcJsrY gQycbC eArBMF trimLinkComponent" title="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/UserSupport/26.jokusouChange.pdf" href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/UserSupport/26.jokusouChange.pdf" target="_blank" rel="noopener noreferrer">令和6年版褥瘡対策に関するスクリーニング・ケア計画書</a></strong></span>
+
+※LIFE提出用CSVファイルの出力はこちらをご確認ください。　→　　→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/UserSupport/16_LIFEteisyutsu.pdf" target="_blank" rel="noopener">「LIFE提出管理について」</a></strong>
+※各様式のご提供時期は、こちらをご確認ください。　→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/LIFEList.pdf" target="_blank" rel="noopener">「令和6年度介護報酬改定に対応したLIFEに提出する様式について」</a></strong>]]></description>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【訪問看護医療保険】　看護・介護職員連携強化加算の区分追加について]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240827-SU-01/</link>
+      <description><![CDATA[令和6年8月23日に公開された訪問看護療養費マスタにて「看護・介護職員連携強化加算」の区分が追加されました。
+<br>
+550001770　 看護・介護職員連携強化加算（２４時間対応体制加算（イ以外の場合））　※既存のコード
+550002370 　看護・介護職員連携強化加算（２４時間対応体制加算（看護業務の負担軽減の取組を行っている場合））
+<br>
+ファーストケアの改修を調整していますが、令和6年9月審査での対応はいたしません。
+24時間対応体制加算をイ（看護業務の負担軽減の取組を行っている場合）で算定し、かつ看護・介護職員連携強化加算を算定する場合はヘルプデスクへお問合せください。]]></description>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】アサインモバイルV1.1.2 リリースのお知らせ　2024年8月22日（木）]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240822-KU-01/</link>
+      <description><![CDATA[Androidでご利用の場合は「Google Play ストア」でアップデートします。
+iPhone、iPadでご利用の場合は「AppStore」に通知が表示されたら更新してください。
+未送信の記録がある場合は、送信して一旦ログアウトしてからアプリを更新してください。
+
+【新機能】
+<strong><span style="color: #ff0000;">※新機能はアサイン・ポータブルで運用の場合ご利用いただけません。新アプリ「アサイン・モバイル」へ切り替えをお願いいたします。</span></strong>
+●訪問予定がキャンセルになったときに、「キャンセル」を登録すると予定表に「キャンセル訪問」として表示するようになりました。こちらをご確認ください。→　<a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/AssignPro/PDF/APAM_Chancel.pdf">訪問キャンセル機能のご案内</a>
+
+「キャンセル」はアサインPro、アサインモバイルのどちらでも登録できます。
+
+●経過記録を入力するときに、分類をまたいでテンプレートを選択して記録できるようになりました。分類毎に１件の経過記録にまとめて記録します。一回の操作で複数記録できるので、大変便利です。　→　<a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/AssignPro/PDF/AM_KeikaKiroku.png">経過記録の複数選択</a>
+
+●利用者詳細画面からケア記録一覧を表示できるようになりました。 →　<a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/AssignPro/PDF/AM_Carekiroku.png">ケア記録一覧</a>
+
+記録を編集する場合は、予定表の訪問予定から表示してください。
+
+●訪問看護計画書、訪問看護報告書を複写作成できるようになりました。作成済一覧から複写元となる訪問看護計画書を表示します。下部の［複写作成］をタップすると複写先の入力画面になります。未送信の計画書・報告書は複写元にできません。　→　<a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/AssignPro/PDF/AM_houkankeikakusho.png">訪問看護計画書・報告書の複写</a>
+
+【機能改善】
+●アサインProの勤務表で承認した他業務をスケジュール画面に表示するようになりました。　→　<a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/AssignPro/PDF/AM_tagyoumu.PNG">他業務を表示</a>
+●予定表画面で記録が１件もない訪問予定と、すべての記録が送信済みの訪問予定であることを、区別できるようになりました。記録が１件もない訪問予定は「記録」をグレー文字で表示します。すべての記録が送信済みの訪問予定は従来どおり水色文字で表示します。　→　<a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/AssignPro/PDF/AM_kirokuumu.PNG">記録の有無を表示</a>
+
+●訪問看護計画書未作成一覧、訪問看護報告書未作成一覧は訪問看護のご利用対象者のみ表示するようになりました（訪問看護のご利用対象者以外は計画書・報告書は作成できません）。
+
+●モバイル版でキーボードをフローティングにすると、バイタルのテンキーが正しく表示されず使えない問題に対応しました。]]></description>
+      <pubDate>Thu, 22 Aug 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】アサインPro V1-2.3.7  リリースのお知らせ　2024年8月20日（火）]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240819-KU-01/</link>
+      <description><![CDATA[ファーストケアのオプションサービス「アサインPro」におきまして、下記日程でバージョンアップを含むメンテナンスを行います。
+【メンテナンス日時】　2024年8月20日（火）18:00～20:00　　<strong><span style="color: #ff0000;">メンテナンスは終了しました。</span></strong>
+
+<br>
+
+【新機能】
+訪問予定がキャンセルになったときに「キャンセル」を登録すると、アサインProの訪問実績、アサインモバイルのスケジュール画面に「キャンセル訪問」を表示するようになりました。こちらをご確認ください。→　<a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/AssignPro/PDF/APAM_Chancel.pdf">訪問キャンセル機能のご案内</a>
+
+「キャンセル」はアサインPro、アサインモバイルのどちらでも登録できます。
+※アサインモバイルのリリースはもうしばらくお待ちください。
+
+【機能改善】
+●承認済みの勤務表で設定されている勤務パターンの勤務時間や休憩時間の変更は、影響範囲が広いため勤務時間や休憩時間が変更できなくなりました。勤務時間や休憩時間の変更は、新たな勤務パターンを作成してください。
+
+●《訪問予定》〈訪問予定表（職員）〉の表示に時間がかかる場合がある問題に対応しました。]]></description>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】ファーストケア居宅版V7.2.080をリリースしました]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240808-KU-01/</link>
+      <description><![CDATA[バージョンアップ権限を持つユーザーでログインし、バージョンアップしてください。（バージョンアップは無料です）
+バージョンアップで更新できないファイルが発生した場合は、少し時間をおいて[再試行]ボタンをクリックし、再度更新をお試しください。
+
+【機能改善】
+<strong>■訪問看護（医療保険）</strong>
+月の最初の訪問が30分未満の精神科訪問看護基本療養費を算定する場合に、医療DX情報活用加算と訪問看護ベースアップ評価料が算定されない問題に対応しました。]]></description>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】ファーストケア居宅版V7.2.070をリリースしました]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240805-KU-01/</link>
+      <description><![CDATA[バージョンアップ権限を持つユーザーでログインし、バージョンアップしてください。（バージョンアップは無料です）
+バージョンアップで更新できないファイルが発生した場合は、少し時間をおいて[再試行]ボタンをクリックし、再度更新をお試しください。
+
+【機能改善】
+<strong>■日常生活支援総合事業訪問型サービス（独自　A2）、定期巡回・随時対応型訪問介護看護サービス</strong>
+令和6年度の新設加算「口腔連携強化加算」を算定したときに、介護給付費明細書（様式第２）の「単位数」の箇所が出力されない問題に対応しました。
+<strong>■訪問看護（医療保険）</strong>
+令和6年6月以降で算定週が月を跨ぐ場合、前月最終週に医療保険の訪問があると、当月１週目の長時間訪問看護加算が算定されない問題に対応しました。バージョンアップ後、実績一覧の金額を正しく表示するために、該当するご利用者は月間個人実績画面で「保存」ボタンをクリックして保存してください。]]></description>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】ファーストケア居宅版V7.2.060をリリースしました]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240729-KU-01/</link>
+      <description><![CDATA[バージョンアップ権限を持つユーザーでログインし、バージョンアップしてください。（バージョンアップは無料です）
+バージョンアップで更新できないファイルが発生した場合は、少し時間をおいて[再試行]ボタンをクリックし、再度更新をお試しください。
+
+
+&nbsp;
+
+*****　令和6年訪問看護オンライン請求　*****
+オンライン請求した審査結果の返戻処理ができるようになりました。介護保険の返戻再請求とは違い、実績や資格情報等を修正して再度伝送しても受け付けられません。詳しい操作はこちらをご確認ください。　→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/online_oshirase6K_henrei.pdf">「看護医療保険　オンライン請求（返戻処理）の操作について」</a></strong>
+なお、返戻処理のうち、請求の振替・分割については事前のベンダーテスト環境が提供されず、サンプルの提示もないため、弊社の想定と異なる返戻レセプトファイルが提供される可能性があります。請求の振替・分割を伴う返戻が発生したら、ヘルプデスクまでお問合せください。
+<br>
+
+*****　令和6年版LIFE関連　*****
+<strong><a href="https://www.mhlw.go.jp/content/001274857.pdf">旧LIFEシステム（令和3年版）から新LIFEシステム（令和6年版）への移行期限は令和6年7月30日（火）です。</a></strong>
+●新LIFE仕様に基づき、以下の様式が登録できるようになりました。旧LIFE仕様で登録した様式は、新LIFE様式（令和6年版）に変換します。詳しい操作はそれぞれのご案内資料をご確認ください。
+①ADL維持　→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/UserSupport/7_ADL.pdf">「ADL維持の入力について」</a></strong>
+②個別機能訓練計画書　→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/UserSupport/2_kinoukunnrennChange.pdf">「個別機能訓練計画書　令和6年版への変換について」</a></strong>
+<span style="color: #ff0000;">事前に《各種登録情報》〈その他情報〉［機能訓練内容］で訓練内容に対する令和6年版の支援コードを設定が必要です。</span>支援コード以外に短期目標・長期目標とICFコードの選択内容も仕様変更されました。機械的に変換できないため、いったん設定値をクリアしています。変換後の令和6年版をよくご確認いただき、未設定項目は新たに設定してください。
+自由入力欄のLIFEに提出する文字数は、こちらをご確認ください。　→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/UserSupport/2_kinoukunnrennmoji.pdf">「個別機能訓練計画書の提出文字数について」</a></strong>
+③生活機能チェックシート　→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/UserSupport/11_seikatsukinouCheck.pdf">「生活機能チェックシートの入力について」</a></strong>
+
+●上記３様式を含め、新LIFEへアップロードするCSVファイルを出力できるようになりました。　→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/UserSupport/16_LIFEteisyutsu.pdf">「LIFE提出管理について」</a></strong>
+新LIFEシステムは令和6年8月1日から提出するCSVファイルをアップロードできるようになります。8月1日以前にCSVファイルを出力した場合は、削除したりせず大切に保存し、8月1日以降に忘れずにアップロードしてください。なお、ADL維持は旧LIFE様式で出力すると、LIFE取り込みでエラーになります。必ず新様式で出力して提出してください。
+●「リハビリテーションマネジメント計画書情報加算」および「短期集中リハビリテーション実施加算」に対応する様式は、8月末のご提供に変更します。各様式のご提供時期は、こちらをご確認ください。　→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/LIFEList.pdf">「令和6年度介護報酬改定に対応したLIFEに提出する様式について」</a></strong>
+<br>
+【機能改善】
+●訪問看護計画書を新規作成するときに、「計画対象年月」を選択しても、入力画面の「計画対象年月」に選択した年月が表示されない場合がある問題に対応しました。改定に対応したLIFEに提出する様式について」</a></strong>]]></description>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】旧LIFEシステムから新LIFEシステムへの移行について]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240716-SU-01/</link>
+      <description><![CDATA[令和6年8月1日から令和6年度介護報酬改定に対応した新LIFEシステムの本稼働が開始されます。
+
+本稼働開始に当たり、<strong><span style="color: #ff0000;">令和6年7月30日（火）までに移行作業を実施</span></strong>する必要があります。
+
+令和6年7月12日発行の<a href="https://www.mhlw.go.jp/content/001274857.pdf">「介護保険最新情報Vol.1291　旧LIFEシステムから新LIFEシステムへの移行作業のお願い」</a>を
+
+ご確認ください。移行手順を説明するリーフレットや問い合わせ先も記載されています。
+
+7月31日（水）から旧LIFEシステムは使用できなくなります。
+
+<br>
+
+※LIFEシステムは弊社のシステムではないため、弊社ヘルプデスクにお問合せいただいても、ご案内できません。介護保険最新情報や新LIFEシステムサイトに記載されている問い合わせ先にご連絡ください。]]></description>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】ファーストケア居宅版V7.2.050をリリースしました]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240627-KU-01/</link>
+      <description><![CDATA[バージョンアップ権限を持つユーザーでログインし、バージョンアップしてください（バージョンアップは無料です）。バージョンアップで更新できないファイルが発生した場合は、少し時間をおいて[再試行]ボタンをクリックし、再度更新をお試しください。
+
+*****　令和6年訪問看護オンライン請求、オンライン資格確認等システムとの連携 *****
+●医療保険請求計算を行い、オンライン請求用CSVファイルを出力できるようになりました。また、経過措置により紙で請求する様式第四「訪問看護療養費明細書」、様式第四の二「訪問看護療養費明細書（旧レイアウト）」を出力します。　詳しくはこちらをご確認ください。　→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/online_oshirase5K.pdf">「訪問看護医療保険　オンライン請求のご案内」</a></strong>
+<span style="color: #ff0000;">6月提供分以降はオンライン請求・経過措置により紙で請求する場合いずれの場合も《請求管理》〈医療オンライン請求〉から操作します。</span>　
+●看護オンライン資格確認等システムとの連携において、医療保険請求前に被保険者証の有効性を一括確認できるようになりました。また、ファーストケアに未登録の利用者を取得した場合、利用者登録から医療保険被保険者証登録までを自動でおこなうようになりました。詳しい操作はこちらをご確認ください。　→　　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/online_oshirase5K_shikaku.pdf">「訪問看護医療保険　オンライン資格確認等システムとの連携について」</a></strong>
+<br>
+*****　令和6年介護報酬改定 *****
+●日常生活支援総合事業　ファーストケアに取り込んだ保険者が提供する単位数表マスタの取り扱い仕様を変更しました。規定のサービス名称と異なる単位数表マスタも取り込み、ご利用いただけます。
+●日常生活支援総合事業　訪問型サービス独自（A2）医療費控除の対象となる金額から生活援助のサービスを除外するよう変更しました。バージョンアップすると、令和6年4月以降のご利用で領収書の医療費控除の対象となる金額の訂正が必要な方がいるか確認するメッセージが表示されます。
+　また、訪問型サービス独自（A2）はご利用回数で算定するサービスも《予定管理》〈月間個人予定〉「週間形式設定」で登録できるよになりました。
+<br>
+*****　令和6年版LIFE関連 *****
+●新LIFEの仕様に基づく「科学的介護推進に関する評価」を登録できるようになりました。旧LIFEの仕様で登録した科学的介護を新LIFE仕様に変換します。詳しい操作はこちらをご確認ください。→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/UserSupport/9_kagakutekikaigo.pdf">「科学的介護情報の入力について」</a></strong>
+（注意）令和6年版LIFEでは既往歴などで設定するコードが傷病名コードのみになりました。ICD10コードは取り込みエラーになるので、傷病名コードに変更してください。
+●新LIFEの仕様に基づき、「興味・関心チェックシート」の「記録職員職種」が任意項目になりました。
+●栄養スクリーニング・アセスメント・モニタリングを新LIFE対応しました。リハ・個別機能・栄養・口腔の一体的取組として提出する場合は設定が必要です。その他変更点はこちらをご確認ください　→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/UserSupport/21_eiyou.pdf">「栄養スクリーニング・アセスメント・モニタリング、栄養ケア計画について」</a></strong>
+●共通の基本項目として被保険者証画面に「障害高齢者の日常生活自立度（画面項目名：障害自立度）」を新設しました。令和6年版LIFEでは「障害高齢者の日常生活自立度」「認知症高齢者の日常生活自立度」が複数の様式で必須項目になります。各様式で反映できるよう登録をおすすめします。
+●LIFEでアップロードするCSVファイルの出力を現在提出できる利用者情報とADL維持等情報に制限しました。　→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/UserSupport/16_LIFEteisyutsu.pdf">「LIFE提出管理について」</a></strong>
+●令和6年5月20日付けの傷病名マスターを取り込みました（定期更新）。
+●各様式のご提供時期は、こちらをご確認ください。　→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/LIFEList.pdf">「令和6年度介護報酬改定に対応したLIFEに提出する様式について」</a></strong>
+<br>
+【機能改善】
+●【楽らくNetFax　送信履歴一覧】送信履歴を取得する期間が選択できるようになりました。送信件数が多く、履歴の取得がエラーになる場合は取得期間を短くしてご利用ください。]]></description>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要　居宅介護支援事業所向け】短期入所生活介護　長期利用の適正化を開始する日付について（解釈変更）]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/2024625-SU-01/</link>
+      <description><![CDATA[疑義照会を行っていた「短期生活介護サービスの長期利用の適正化を適用開始する日付」について回答があり、ファーストケアの解釈と異なっていることがわかりました。
+ファーストケアの解釈：介護報酬を算定する日でカウントし、ショート開始日の<span style="color: #ff0000;">62日目</span>から長期利用の適正化を適用する
+介護保険の解釈：短期入所生活介護をご利用開始した日から自費での利用日を含めてカウントし、ショート開始日から<span style="color: #ff0000;">61日目</span>）から長期利用の適正化を適用する
+こちらをご確認ください。→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/cyoukiriyou.pdf">「短期入所生活介護　長期利用の適正化」</a></strong>について
+
+居宅介護支援事業所でショートの利用票・提供票をお作りいただくときの日数カウントに影響します。
+令和6年4月1日時点で短期生活のご利用日数が60日以下の方、4月1日以降にご利用を開始された方がいらっしゃる場合は、利用票を確認して修正が必要です。
+ご不便をおかけいたします。]]></description>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】ファーストケア居宅版V7.2.040をリリースしました]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240530-KU-01/</link>
+      <description><![CDATA[バージョンアップ権限のあるユーザーでログインし、バージョンアップしてください。（バージョンアップは無料です）
+バージョンアップで更新できないファイルが発生した場合は、少し間をあけて[再試行]ボタンをクリックし、再度更新をお試しください。
+
+*****　令和6年4月度介護報酬改定　*****　　　　※令和6年6月度診療報酬改定はこのあとのお知らせをご確認ください。
+●夜間対応型訪問介護の利用者向け「定期巡回・随時対応型訪問介護看護費（Ⅲ）」を算定できるようになりました。
+
+居宅支援版→<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/R0604_oshirase4_2.pdf">夜間対応型訪問介護の利用者向け「定期巡回・随時対応型訪問介護看護費（Ⅲ）」</a></strong>
+
+居宅サービス提供版→<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/R0604_oshirase4_3.pdf">夜間対応型訪問介護の利用者向け「定期巡回・随時対応型訪問介護看護費（Ⅲ）提供」</a></strong>
+（自社で定期巡回・随時対応型訪問介護看護を行っている場合は初期設定が必要です。）
+●地域密着型療養通所介護の「短期利用療養通所介護」を算定できるようになりました。→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/R0604_oshirase4_4.pdf">療養型通所介護を短期利用する場合の操作について</a></strong>
+●居宅サービス提供版の《実績管理》〈加減算設定〉画面をご利用いただけるようになりました。→　<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/R0604_oshirase4_5.pdf">訪問看護サービスは制限事項がございます。こちらをご確認ください。</a></strong>
+●居宅サービス提供版の《日常業務》〈通所日付別〉画面の加減算表示をご利用いただけるようになりました。
+●居宅介護支援版《実績（予定）管理》〈月間個人実績（予定）〉にて、短期入所生活介護、介護予防短期入所生活介護サービスの長期利用の適正化について、夜減・定員超過・介護職員欠員による減算を含めて適正化するようサービスコードが追加されました。4月、5月のロングショートで夜減・定員超過・職員欠員を算定する事業所をご利用の方がいらっしゃる場合は、ご案内事項がございます。ヘルプデスクまでお問い合わせください。
+
+【機能改善】
+<span style="color: #ff0000;">●居宅介護支援版《実績管理》〈加減算設定〉にて、同一建物減算を前月からの複写で算定できるようになりました。→<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/R0604_oshirase4_1.pdf">居宅介護支援費の同一建物減算を前月から複写します</a></strong></span>
+●高齢者住宅版　令和6年6月から変更になる高齢者住宅で提供する食事の軽減税率における金額基準の変更に対応しました。一食当たり640円以下が670円以下に、１日累計1,920円までが2,010円までに変わります。]]></description>
+      <pubDate>Thu, 30 May 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】訪問看護医療　令和6年6月度診療報酬改定に対応しました（実績入力版）]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/2024530-SU-01/</link>
+      <description><![CDATA[■令和6年6月度診療報酬改定に基づき、訪問看護医療保険の実績入力ができるようになりました。
+詳しくは<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/online_oshirase4K.pdf">「令和6年4月度報酬改定等について」</a></strong>、<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/online_oshirase4K_sousa.pdf">「操作のご案内」</a></strong>をご確認ください。
+■オンライン資格確認等システムと連携し、ご利用者の被保険者証情報を確認できるようになりました。
+詳しくは<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/online_oshirase4K_setup.pdf">「オンライン資格確認初期設定」</a></strong>、<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/online_oshirase4K_shikakusousa.pdf">「オンライン資格確認等システムとの連携について（操作説明）」</a></strong>をご確認ください。
+■オンライン請求システムとの接続テストが実施できるようになりました。
+詳しくは<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/online_oshirase4K_test.pdf">「オンライン請求の接続テストについて」</a></strong>をご確認ください。
+※オンライン資格確認等システム、オンライン請求システムとの連携は、疑義照会について厚生労働省から回答がないものが多数あります。そのため、現時点で提示された内容に基づき弊社で解釈・検討した仕様でのご提供になります。今後発表された内容で変更があれば対応を検討します。
+
+※審査機関への請求機能は6月末にご提供する予定です。]]></description>
+      <pubDate>Thu, 30 May 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】令和6年6月度介護報酬改定の施行について（日常生活支援総合事業）]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240529-SU-01/</link>
+      <description><![CDATA[令和6年6月より介護職員処遇改善加算、介護職員等特定処遇改善加算、介護職員等ベースアップ等支援加算が介護職員等処遇改善加算に統一されます。これに伴い、新しい単位数表マスタが保険者のホームページ等で公開されます。保険者からの情報発信をご確認ください。保険者から令和6年6月以降の単位数表マスタが提供されたら、ファーストケアに取り込んでください。
+単位数表マスタを取り込まずに利用票や提供票を出力すると、<span style="color: #ff0000;"><strong>サービス名称が？？？や空欄</strong></span>になります。
+単位数表マスタは保険者のホームページで公開されたり、メールなどで配信されます。
+ブラウザの検索ツールで「<strong>保険者名（川崎市等）　日常生活支援総合事業　サービスコード</strong>」などのキーワードを入力して検索してください。
+単位数表マスタの公開場所や公開時期がご不明な場合は、保険者へご確認ください。
+ファーストケアへの取込方法は、こちらをご確認ください。　→　<span style="color: #0000ff;"><strong><a href="http://www.fc-center.jp/support/1403.html">【日常生活支援総合事業】地域独自サービスコード、単位数を取り込むには？</a></strong></span>
+<br>
+※令和6年4月時点で6月以降のサービスコードも含めて公開した保険者は、新たな取り込みは不要ですが、修正版が公開されている場合もあるためホームページ等をご確認いただくことをお勧めします。]]></description>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】アサインPro V1-2.3.6.4  リリースのお知らせ　2024年5月15日（水）]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240513-KU-01/</link>
+      <description><![CDATA[ファーストケアのオプションサービス「アサインPro」におきまして、下記日程でバージョンアップを含むメンテナンスを行います。
+【メンテナンス日時】　2024年5月15日（水）18:00～20:00
+　<strong><span style="color: #ff0000;">メンテナンスは終了しました。文例登録のご利用も可能になりました。</span></strong>
+【機能改善】
+●令和6年4月度報酬改定に対応しました。訪問看護計画書の「問題点と解決策」が「療養上の課題・支援内容」に変わるため、《システム》〈文例設定〉の対象様式、項目の文言が「問題点→療養上の課題」、「解決策→支援内容」に変わります。]]></description>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】アサインモバイルV1.1.1 リリースのお知らせ　2024年5月16日（木）]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240513-KU-02/</link>
+      <description><![CDATA[Androidでご利用の場合は「Google Play ストア」でアップデートします。
+iPhone、iPadでご利用の場合は「AppStore」に通知が表示されたら更新してください。
+未送信の記録がある場合は、送信して一旦ログアウトしてからアプリを更新してください。
+
+【機能改善】
+●令和6年4月度報酬改定に対応しました。６月の訪問看護計画書から「問題点と解決策」が「療養上の課題・支援内容」に変わります。
+●月末31日に訪問看護計画書/報告書を追加取得したときに対象年月が正しく表示されないなど表示・動作・送受信について、いくつかの問題に対応しました。]]></description>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】日常生活支援総合事業マスタ取込に関するお問い合わせが増えています]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240502-SU-01/</link>
+      <description><![CDATA[介護報酬改定により日常生活支援総合事業のマスタ取込・スケジュール登録に関するお問い合わせが非常に増えています。
+
+よくあるお問い合わせ：訪問型サービス（A2：独自）通所型サービス（A6：独自）
+
+<strong>Q：マスタ取込は成功しているのに、スケジュール登録で「マスタが無い」とエラーになってしまう</strong>
+<br>
+訪問型サービスA2・通所型サービスA6は厚生労働省が発表する「介護予防・日常生活支援総合事業サービスコード表」に沿って作成し、合成単位数のみ市町村が変更可能です。
+今改正では基本サービスの名称が変更になっていますが、サービス名称が厚生労働省の発表と異なるマスタ（名称が旧のまま）の市町村が多く発生しています。
+この場合、本体と組み合わせになる加算・減算が正しく登録できません。異なる場合は市町村に修正を依頼してください。
+高齢者虐待防止未実施減算・業務継続計画未策定減算の対象になる場合は、いったん「基準型」でスケジュールの登録だけ先に進めていただき連休明けにお問い合わせください。
+上記の他、保険者マスタの不備等の情報は<a href="http://www.fc-center.jp/support/1776.html">こちらも参考に</a>してください。]]></description>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】ファーストケア居宅版V7.2.030をリリースしました（障害対応版）]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240501-KU-01/</link>
+      <description><![CDATA[バージョンアップ権限のあるユーザーでログインし、バージョンアップしてください（バージョンアップは無料です）。バージョンアップで更新できないファイルが発生した場合は、少し間をあけて[再試行]ボタンをクリックし、再度更新をお試しください。
+
+*****　令和6年4月度介護報酬改定（障害対応版）　*****
+
+【総合事業A6（通所型サービス独自）】
+同一建物減算３（新区分）が区分支給限度基準内に計算されてしまう問題に対応しました。]]></description>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】ファーストケア居宅版V7.2.020をリリースしました（国保連請求対応版）]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240425-KU-01/</link>
+      <description><![CDATA[バージョンアップ権限のあるユーザーでログインし、バージョンアップしてください。（バージョンアップは無料です）
+バージョンアップで更新できないファイルが発生した場合は、少し間をあけて[再試行]ボタンをクリックし、再度更新をお試しください。
+
+*****　令和6年4月度介護報酬改定　*****
+
+令和6年4月以降の国保連請求、利用者請求などの請求機能をご利用いただけるようになりました。
+
+また、居宅介護支援事業者が市町村から指定を受けて介護予防支援を行うケースに対応しました。
+
+前回ご提供したファーストケアの制限事項に対する対応と必要な操作、注意点などを<a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/R0604_oshirase3.pdf">こちら</a>でご案内いたします。
+
+必ずご確認ください。　→　<a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/R0604_oshirase3.pdf">ファーストケアVer.7　令和6年度介護報酬改定について（Vol.3）</a>]]></description>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【訪問看護医療保険】オンライン請求、オンライン資格確認機能の接続・運用テストについて]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240411-SU-01/</link>
+      <description><![CDATA[令和6年6月からはじまる訪問看護医療保険のオンライン請求とオンライン資格確認の接続・運用テストについて、
+
+<a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/online_oshirase2.pdf">こちらをご確認ください。</a>
+
+<br>
+
+※オンライン資格確認、オンライン請求とも、ご利用いただくためには専用パソコン、通信環境、厚生労働省が提供するシステムなどの環境が必要です。環境は事業所様でご準備いただく必要がございます。オンライン環境についてご不明な事業所様は、弊社営業部（0120-27-8117、携帯からは044-281-3475）までお問い合わせください。]]></description>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】ファーストケアV7.2.010　障害のお知らせ（訪問介護、居宅支援）]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240409-KU-01/</link>
+      <description><![CDATA[日頃よりファーストケアをご利用いただきまして誠にありがとうございます。
+
+令和6年4月度介護報酬改定版ファーストケアV7.2.010におきまして、日常生活支援総合事業　訪問型サービス（A2）について２件の障害が報告されました。4月下旬にご提供する次バージョンで修正いたします。対象となるスケジュールがないか、ご確認をお願い申し上げます。ご不便をおかけいたします。
+
+■障害の内容と影響　日常生活支援総合事業　訪問型サービス（独自・A2）
+
+①パターン２～パターン５のサービスを週間形式で登録しても、再度スケジュール詳細画面を開くとパターン１のサービスコードになっている。　<a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/HelperA2.JPG">画面イメージはこちら。</a>
+
+月間形式に展開したスケジュールは登録した当初のパターンで作成されるため、その月のスケジュールは正しい内容になります。しかし、翌月複写するとパターン１で作成されるため、次月以降のスケジュールが誤ったサービス内容で登録されます。複写後、週間形式でパターンを選択し直しが必要です。
+
+※パターンの解釈は保険者により異なるため、保険者が公開しているサービスコード表でご確認ください。
+
+②ひと月ごとの回数を定める場合（標準的な内容の指定相当訪問型サービス、生活援助が中心のサービス、短時間の身体介護が中心のサービス）を登録したとき、登録した回数分の単位数が算定されない場合がある。　<a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/HelperA22.JPG">画面イメージはこちら。</a>
+
+利用票別表、提供票別表の算定回数が正しくないため、給付管理対象単位数や金額が正しく出力されません。]]></description>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【LIFE】令和6年度のLIFEについて]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240405-SU-01/</link>
+      <description><![CDATA[令和6年3月15日にLIFEに関連した介護保険最新情報が２件公開されました。
+
+Vol.1216「<a href="https://www.wam.go.jp/gyoseiShiryou-files/documents/2024/0318131358417/ksvol.1216.pdf">科学的介護情報システム（LIFE）関連加算に関する基本的な考え方並びに事務処理手順及び様式例の提示について</a>」
+
+Vol.1227「<a href="https://www.mhlw.go.jp/content/001227783.pdf">令和6年度介護報酬改定を踏まえた科学定介護情報システム（LIFE）の対応について</a>」
+
+以下を含む重要な内容が多数記載されています。LIFE提出を行っている事業所は必ずご確認ください。
+①科学的介護情報システム（LIFE）が令和6年4月から7月にかけてシステム更改が行われること
+②「新LIFEシステム」を利用するには再度利用登録が必要なこと
+③「現行LIFEシステム」から「新LIFEシステム」へ情報の移行操作が必要なこと
+④「新LIFEシステム」が本格稼働する8月までの間に提出するはずの様式や加算の取り扱い
+<a href="https://life.mhlw.go.jp/login">「現行LIFEシステム」ログイン画面</a>右上（リンク）の「操作マニュアル・よくあるご質問等」からダウンロードする「令和6年度版　新LIFE導入ガイド・移行ガイド」も画面イメージ付きで説明されています。
+なお、4月10日までは3月分を現行様式で提出できます。その後は利用者情報とADL維持に限り、ファーストケアで出力した現行様式を新LIFEシステムで提出できます。それ以外の様式は新LIFEシステムが準備中のため提出できません。
+
+<br>
+
+※<strong>LIFEシステムは弊社でご提供するものではないため、新システムへの移行や新システムでの操作などはヘルプデスクではご案内できません。</strong>LIFEシステム問い合わせ窓口へお問い合わせください（上記掲載資料に電話番号が記載されています）。
+※<strong>令和6年度介護報酬改定に伴い変更がある計画書などの様式は、変更点を確認後、優先度をつけて順次ご提供する予定です。</strong>ご提供するまでの間は現行様式をご利用ください。入力した内容は可能な範囲で新様式に反映する予定です。様式が大幅に変更された場合は、再度入力が必要な場合もあることをご了承ください。]]></description>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【訪問看護医療保険】オンライン請求、オンライン資格確認機能のご提供について]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240402-SU-01/</link>
+      <description><![CDATA[令和6年6月からはじまる訪問看護医療保険のオンライン請求とオンライン資格確認について、現時点のご提供内容をご案内いたします。<a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/online_oshirase1.pdf">こちらをご確認ください。</a>
+
+<br>
+
+※オンライン資格確認、オンライン請求とも、ご利用いただくためには専用パソコン、通信環境、厚生労働省が提供するシステムなどの環境が必要です。環境は事業所様でご準備いただく必要がございます。オンライン環境についてご不明な事業所様は、弊社営業部（0120-27-8117、携帯からは044-281-3475）までお問い合わせください。]]></description>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【訪問看護医療保険】「新型コロナウイルス感染症に係る診療報酬上の取扱いについて」の終了]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240327-SU-01/</link>
+      <description><![CDATA[訪問看護の医療保険サービスにおいて適用されてきた「新型コロナウィルス感染症に係る診療報酬上の取扱いについて」（いわゆるコロナ特例）は令和6年3月31日をもって終了となります。現在令和6年度診療報酬改定対応を行っているため、コロナ特例終了についてファーストケアでは特別な改修はいたしません。令和6年4月、5月の訪問看護医療保険ダイアログにコロナ特例用の項目「長時間訪問看護加算（特例）」、「特別管理加算（特例）」が表示されますが選択（チェック）しないよう、ご注意ください。選択すると療養費明細書に反映し、誤請求になります。
+
+令和6年6月以降の訪問看護医療保険ダイアログにはコロナ特例用の項目は表示いたしません。ご不便をおかけいたします。]]></description>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【緊急リリース】居宅版V7.2.010をリリースします]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240327-KU-01/</link>
+      <description><![CDATA[令和6年介護報酬改定版ファーストケアV7.2.000で障害が報告されました。適切な回避策がないためプログラム対応し、緊急リリースいたします。バージョンアップ権限のあるユーザーでログインし、バージョンアップしてください（バージョンアップは無料です）。バージョンアップで更新できないファイルが発生した場合は、少し間をあけて[再試行]ボタンをクリックし、再度更新をお試しください。
+
+【障害の内容】
+
+同月内に介護保険の訪問看護と医療保険の訪問看護が混在する場合に、介護保険の訪問看護スケジュールを登録・更新すると、エラーでファーストケアが終了する場合がある。]]></description>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】令和6年介護報酬改定版ファーストケアへのバージョンアップについて]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240326-KU-01/</link>
+      <description><![CDATA[居宅版ファーストケア<strong><span style="color: #ff0000;">V7.1.810以前</span></strong>のバージョンをお使いの場合、昨日（3月25日）ご提供を開始した令和6年介護報酬改定版ファーストケアV7.2.000へバージョンアップできない場合がございます。バージョンアップできない場合は、以下の手順でバージョンアップしてください。
+
+■複数のPCでファーストケアをご利用の場合（ネットワークタイプ）
+V7.1.820以降でご利用されている他のPCでバージョアンアップしてください。
+■一台のPCでファーストケアをご利用の場合（スタンダードタイプ）
+<a href="http://www.fc-center.jp/support/1776.html">令和6年度報酬改定特設サイト</a>よりバージョンアップ用インストーラをダウンロードして、実行してください。]]></description>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】居宅版V7.2.000　令和6年度介護報酬改定対応版ファーストケア（暫定）をリリースしました]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240325-KU-01/</link>
+      <description><![CDATA[厚生労働省より（案）付で公開された「介護保険事務処理システム変更に係る参考資料（その4）（令和6年3月15日事務連絡）」に基づく<span style="color: #ff0000;"><strong>令和6年度介護報酬改定版ファーストケアV7.2.000（暫定版）をリリースしました</strong></span>（バージョンアップは無料です）。バージョンアップ後、<span style="color: #ff0000;"><strong>全ての事業所様で事業所情報などの設定変更が必要です。
+
+</strong></span>ファーストケアのお知らせをよくご確認いただき、設定変更してからお使い始めてください。
+
+<br>
+
+●バージョンアップの方法、バージョンアップ後の設定変更、制限等につきましては、こちらのお知らせ「<span style="color: #0000ff;"><strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/R0604_oshirase2.pdf">ファーストケアVer.7　令和6年度介護報酬改定について（Vol.2）」</a></strong></span>をご確認ください。
+
+●インターネットに接続せずにファーストケアをご利用になっていたり、親機と別な場所でご利用になっている場合は、こちらの<a href="http://www.fc-center.jp/support/1776.html">令和6年度報酬改定特設サイト</a>よりインストーラをダウンロードして、バージョンアップしてください。
+
+■今後のリリース予定
+
+令和6年4月末に、令和6年度介護報酬改定対応版ファーストケア（確定版）をリリースする予定です。
+
+※転居やご逝去などで4月中に利用者請求書・領収書が必要な場合は、ヘルプデスクまでお問い合わせください。]]></description>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】令和6年度介護報酬・診療報酬改定について　Vol.1]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240229-SU-01/</link>
+      <description><![CDATA[令和6年度介護報酬・診療報酬改定について、ご提供開始時期の予定、ご利用いただくための準備、PC環境などの概要をご案内します。現時点では厚生労働省から制度改正内容の確定版が公示されておりません。今後の改正内容発表状況により、今回ご案内するスケジュールが変更になる場合もございます。あらかじめご了承ください。
+&nbsp;
+ご案内資料→<a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/R6_VOL1.pdf">ファーストケアVer.7　令和6年度介護報酬・診療報酬改定版について　Vol.1</a>
+&nbsp;
+※今後もファーストケアお知らせ画面やユーザーサポート情報令和6年報酬改定特設サイト（URL：<a href="http://www.fc-center.jp/support/1776.html">http://www.fc-center.jp/support/1776.html</a>）に、制度改正に関するご案内を掲載してまいります。必ずご確認ください。
+
+&nbsp;
+
+■ファーストケアがインストールされていないパソコンでのお知らせ確認方法
+インターネットに接続しているパソコンで検索サイトを表示します。検索する文字列を入力する欄に、カタカナで「ファーストケア」と入力して検索します。弊社ホームページへのリンクが表示されます。弊社ホームページが開きましたら、画面の右上の青い「ユーザーサポート」ボタンをクリック後、左端メニューの「令和6年報酬改定」をクリックしてください。]]></description>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>【重要】アサインPro V1-2.3.6.2  リリースのお知らせ　2024年2月20日（火）]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240219-KU-01/</link>
+      <description><![CDATA[ファーストケアのオプションサービス「アサインPro」におきまして、下記日程でバージョンアップを含むメンテナンスを行います。
+
+<br>
+
+【メンテナンス日時】　2024年2月20日（火）18:00～20:00　<strong><span style="color: #ff0000;">メンテナンスは終了しました。</span></strong>
+
+<br>
+
+【主な機能改善】
+●《オーダー》、〈基本オーダー設定（週間計画）一覧検索〉〈基本オーダー設定（月間計画）一覧検索〉　検索条件に「エリア」を追加しました。「エリア」毎に一覧表示ができるようになりました。
+●《勤務表》〈勤務表〉検索条件に「エリア」を追加しました。「エリア」毎に一覧表示ができるようになりました。「エリア」に所属する職員毎に勤務表を操作できます。
+●責任者からの指示画面に指示した職員名を表示するようになりました。
+●《利用者》〈利用者情報〉［利用者情報編集］画面で利用者の注意事項を確認できるようになりました。
+●アサインProを訪問看護でご利用の場合、「従業者の勤務体制及び勤務形態一覧表」作成の基になる勤務形態や勤務時間、実訪問時間などをExcelで出力できるようになりました。勤務パターンに休憩時間を設定すると、休憩時間を除いた勤務時間で出力します（訪問介護は既にご提供済みです）。サンプルをご確認ください。　→　<a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/KinmuSample.pdf" rel="nofollow">勤務情報一覧サンプル</a>
+出力画面はこちらから。　→　<a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/AssignPro/PDF/AP_KinmuCsv.pdf" rel="nofollow">勤務情報一覧出力画面</a>]]></description>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>令和6年度介護報酬改定、診療報酬改定について]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240207-SU-01/</link>
+      <description><![CDATA[介護報酬は1月22日に開催された第239回社会保障審議会介護給付費分科会（<strong><a href="https://www.mhlw.go.jp/content/12300000/001200256.pdf">https://www.mhlw.go.jp/content/12300000/001200256.pdf</a></strong>）にて
+具体的な改定内容が一部公開されました。
+診療報酬は1月26日に開催された第582回中央社会保険医療協議会 総会（<a href="https://www.mhlw.go.jp/content/12404000/001197892.pdf"><strong>https://www.mhlw.go.jp/content/12404000/001197892.pdf</strong></a>）にて
+改定内容の一部が公開されました。
+これを受けてファーストケアは全版　令和6年度介護報酬改定・診療報酬改定に対応いたします。
+例年と同様、3月下旬以降段階的にご提供してまいります。
+現時点のご提供予定時期と対応内容について、まとめました。
+●ファーストケア居宅介護支援版、居宅サービス提供版、多機能版、地域包括版、高齢者住宅版は<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/FCKV_Schedule.pdf">こちら</a></strong>
+●ファーストケア特定施設版、GH版、特養版、老健版、介護医療院版、小規模特養版、地域密着型特定施設版は<strong><a href="https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/FCSV_Schedule.pdf">こちら</a></strong>
+今回は介護報酬と診療報酬のダブル改定、介護報酬は4月と6月の二段階で施行、訪問看護診療報酬のオンライン資格確認とオンライン請求など多岐にわたります。いつ、どの機能が操作できるようになるのか、ご利用いただいているファーストケアのご提供時期をご確認ください。
+なお、前回改定では12月に公開された情報が2月になってもまだ公開されないなど、厚生労働省からの情報共有が遅くなっています。ご提供時期が変更になる場合がございます。ご了承ください。
+
+※施行に向けて、改定に関する重要なお知らせを随時公開いたします。事業所様におかれましては、必ずお知らせをご確認ください。]]></description>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>ファーストケアと【シャープ】の「i-wellebe」が連携しました]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240207-SU-02/</link>
+      <description><![CDATA[ファーストケアはシャープ株式会社の法人向け見守り／運動管理ソリューション「i-wellebe（アイウェルビー）」との情報連携を開始しました。「i-wellebe」は、シャープ独自の非接触ヘルスケアセンシング技術を活用して開発されたヘルスケアソリューションです。※1
+カメラと赤外線センサーによる非接触でのセンシングが可能な専用デバイスを使い、対象者の顔認証と同時に、３つのバイタル値※2を一括測定し、クラウド上に自動記録します。ファーストケアに登録した利用者と「i-wellebe」で顔認証する利用者は連携し、測定したバイタル値をファーストケアに取り込みます。ファーストケアやファーストケア・ポータブルで入力した他の記録と一緒にケア記録で時系列に確認できます。詳しくは<strong><a href="https://www.fc-soft.jp/sharp_i-wellebe/">こちら</a></strong>をご確認ください。
+※1　医療目的（疾病の診断・治療・予防等）の使用はできません。
+※2　シャープ独自の推定値であり、医学的に確立されたものではありません。
+<br>
+「i-wellebe」をご利用になる場合、利用者や職員の紐づけなど事業所での設定、連携するために弊社での設定が必要です。ご利用の際は、弊社担当までご連絡ください。]]></description>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<span class="chip bg-wht border-main">FirstCare居宅版</span>令和6年度介護報酬改定、診療報酬改定について]]></title>
+      <link>https://www.fc-soft.jp/news/news_k/20240207-SU-03/</link>
+      <description><![CDATA[<pre class="sc-gcUDKN emEbro">本年は介護報酬と診療報酬が同時に改定される“ダブル制度改正”です。
+ファーストケアはそのどちらにも対応いたします。
+ &nbsp;
+【ファーストケアの主な改定対応事項】
+・介護保険：介護報酬改定、ケアプランデータ連携、LIFE（科学的介護情報）
+・医療保険（訪問看護）：診療報酬改定、オンライン資格確認、オンライン請求
+<br>
+各対応時期や詳細はファーストケアお知らせ画面からご確認ください。</pre>]]></description>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
