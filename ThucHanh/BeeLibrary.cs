@@ -27,7 +27,6 @@ namespace ThucHanh
                         });
                     }
                 }
-
                 return rssItems;
             });
         }
