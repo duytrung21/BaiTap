@@ -18,3 +18,5 @@ C:\Users\HP\source\repos\ThucHanh\ThucHanh\obj\Debug\ThucHanh.csproj.CoreCompile
 C:\Users\HP\source\repos\ThucHanh\ThucHanh\obj\Debug\ThucHanh.csproj.CopyComplete
 C:\Users\HP\source\repos\ThucHanh\ThucHanh\obj\Debug\ThucHanh.exe
 C:\Users\HP\source\repos\ThucHanh\ThucHanh\obj\Debug\ThucHanh.pdb
+C:\Users\HP\source\repos\ThucHanh\ThucHanh\bin\Debug\System.ServiceModel.Syndication.dll
+C:\Users\HP\source\repos\ThucHanh\ThucHanh\bin\Debug\System.ServiceModel.Syndication.xml
