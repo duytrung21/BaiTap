@@ -15,23 +15,7 @@ namespace ThucHanh
         public Form1()
         {
             InitializeComponent();
-
-            
-            //webView21.CoreWebView2InitializationCompleted += async (s, e) =>
-            //{
-            //    if (e.IsSuccess)
-            //    {
-            //        webView21.NavigationStarting += CoreWebView2_NavigationStarting;
-            //        await LoadAndDisplayRssAsync();
-            //    }
-
-            //    await LoadAndDisplayRssAsync();
-            //};
-
             InitializeWebView2Async();
-
-            //task.r await LoadAndDisplayRssAsync();
-            webView21.EnsureCoreWebView2Async(); //đảm bảo WebView2 được khởi tạo đúng cách
         }
 
         private async void InitializeWebView2Async()
@@ -69,34 +53,6 @@ namespace ThucHanh
             }
         }
 
-        private void CoreWebView2_NavigationStarting(object sender, CoreWebView2NavigationStartingEventArgs e)
-        {
-            string url = e.Uri;
-
-            if (url.StartsWith("http://") || url.StartsWith("https://"))
-            {
-                e.Cancel = true;
-
-                try
-                {
-                    string chromePath = @"C:\Program Files\Google\Chrome\Application\chrome.exe"; //link dẫn đến app Chrome 
-                    System.Diagnostics.Process.Start(new System.Diagnostics.ProcessStartInfo
-                    {
-                        FileName = chromePath,
-                        Arguments = url,
-                        UseShellExecute = true
-                    });
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show("Không thể mở Chrome: " + ex.Message);
-                }
-            }
-            else
-            {
-                e.Cancel = false;
-            }
-        }
         private async Task LoadAndDisplayRssAsync()
         {
             string rssUrl = "https://www.fc-soft.jp/dcms-rss/news_k/";

@@ -10,7 +10,6 @@ C:\Users\HP\source\repos\ThucHanh\ThucHanh\bin\Debug\Microsoft.Web.WebView2.Wpf.
 C:\Users\HP\source\repos\ThucHanh\ThucHanh\bin\Debug\Microsoft.Web.WebView2.Core.xml
 C:\Users\HP\source\repos\ThucHanh\ThucHanh\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
 C:\Users\HP\source\repos\ThucHanh\ThucHanh\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
-C:\Users\HP\source\repos\ThucHanh\ThucHanh\obj\Debug\ThucHanh.csproj.AssemblyReference.cache
 C:\Users\HP\source\repos\ThucHanh\ThucHanh\obj\Debug\ThucHanh.Form1.resources
 C:\Users\HP\source\repos\ThucHanh\ThucHanh\obj\Debug\ThucHanh.Properties.Resources.resources
 C:\Users\HP\source\repos\ThucHanh\ThucHanh\obj\Debug\ThucHanh.csproj.GenerateResource.cache
