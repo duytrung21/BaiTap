@@ -75,6 +75,7 @@ namespace ThucHanh
                     text += $"<tr valign='top'><td style='width:350px;'>{serviceInfo.PubDate}</td><td style='width: 20px;'>&nbsp;</td><td><h3>{serviceInfo.Title}</h3>{desc}<hr/></td></tr>"; 
                 }
                 text += "</table></body></html>";
+                //text += "<a href=\"https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/R0704_menu.pdf\" target=\"_blank\" rel=\"noopener\">詳しくはこちら</a>"; //test link
                 webView21.NavigateToString(text);
             }
             catch (Exception ex)

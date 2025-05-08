@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# artcle: http://ogp.me/ns/artcle#">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+<meta name="format-detection" content="telephone=no">
+<title>ファーストケア体験版専用のお申し込みフォーム</title>
+<meta name="description" content="介護保険業務管理ソフトの「ファーストケア」の体験版に関するお問い合わせは、こちらのフォームより承ります。ファーストケア体験版をご検討中のお客様は、こちらのフォームよりご連絡ください。">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&amp;family=Roboto:wght@400;700&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/dcms_media/css/swiper-bundle.8.3.2.min.css" defer>
+<link rel="stylesheet" href="/dcms_media/common/bootstrap.5.3.2.css">
+<link rel="stylesheet" href="/dcms_media/other/lib.setting.css">
+<link href="/dcms_blocks/accessibility/css/common.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="/dcms_media/css/lib.common.css">
+<link rel="stylesheet" href="/dcms_media/css/lib.block.css">
+<link rel="stylesheet" href="/dcms_media/css/lib.contents.css">
+<!-- [ JavaScript ]-->
+<script type="text/javascript" src="/dcms_media/js/lib.setting.js"></script>
+<script type="text/javascript" src="/dcms_media/js/jquery-3.7.1.min.js" id="jquery"></script>
+<script type="text/javascript" src="/dcms_media/js/swiper-bundle.8.3.2.min.js" defer></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    (function () {
+      if (!$lh.match(/dcmsadm/)) {
+        var scriptElement = document.getElementById('jquery');
+        scriptElement.setAttribute('defer', 'true');
+        var loadFile = [
+            '/dcms_media/js/lib.common.bundle.js',
+            '/dcms_blocks/accessibility/js/common.js',
+        ];
+  
+        function loadJS(index) {
+          if (index < loadFile.length) {
+            var script = document.createElement('script');
+            script.src = loadFile[index];
+            script.async = true;
+            script.defer = true;
+            script.onload = function () {
+              //console.log('Script loaded: ' + loadFile[index]);
+              loadJS(index + 1);
+            };
+            script.onerror = function () {
+              console.log('Failed to load script: ' + loadFile[index]);
+            };
+            document.body.appendChild(script);
+          }
+        }
+        loadJS(0);
+      }
+    })();
+  });
+</script>
+<script defer src="https://trace.bluemonkey.jp/trace.js"></script>
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NP6M25N');</script>
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NP6M25N"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script id="_bownow_ts">
+var _bownow_ts = document.createElement('script');
+_bownow_ts.charset = 'utf-8';
+_bownow_ts.src = 'https://contents.bownow.jp/js/UTC_f27bfcb98979fe5d7c72/trace.js';
+document.getElementsByTagName('head')[0].appendChild(_bownow_ts);
+</script>
+</head>
+
+
+
+<body>
+  <!-- BODYUPCODE -->
+  <div role="navigation" aria-label="Skip link navigation">
+    <ol class="lib-skipNav__list" aria-live="off" aria-atomic="false">
+      <li><a href="#dcms_layoutPageBlock">主要ページへ移動</a></li>
+      <li><a href="#lib-header-nav">メニューへ移動</a></li>
+      <li><a href="#footer">ページ下へ移動</a></li>
+    </ol>
+  </div>
+<div id="wrapper">
+  <div class="lib-header__outer js-gnav__outer lib-header-BS02 typeS">
+        <div class="lib-header__inner">
+          <header class="lib-header__bar js-gnav__bar" role="banner">
+            <div class="lib-header__logo"><a href="/"><span class="thumb"><img src="/dcms_media/other/logo.svg" alt="株式会社ビーシステム"></span></a></div>
+            <button class="lib-menu__btn js-gnav__btn" aria-label="Menu Open" aria-expanded="false" aria-controls="panel-gnav"><span class="line"> </span><span class="line"> </span><span class="line"> </span></button>
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1341100103607132');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1341100103607132&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+          </header>
+          <nav class="lib-nav__panel js-gnav__panel" id="panel-gnav" aria-hidden="false" aria-label="グローバルナビゲーション">
+            <div class="lib-nav__cover">
+              <div class="lib-nav__outer">
+                <!--<div class="lib-search__outer js-scroll-out" role="search">
+                  <form action="/dcms-search/" method="get">
+                    <input name="schBlog" type="hidden" value="1">
+                    <div class="lib-search__inside">
+                      <label class="sr-only">サイト内検索</label>
+                      <input class="lib-search__input" type="search" name="schKeyword" placeholder="サイト内検索" autocomplete="off">
+                      <button class="lib-search__btn" type="submit"><span class="sr-only">検索する</span></button>
+                    </div>
+                  </form>
+                </div>-->
+                <!-- [END lib-search__outer]-->
+                <!--<ul class="lib-lang__outer js-scroll-out">
+                  <li><a href="/" aria-current="page">JP</a></li>
+                  <li><a href="/en/">EN</a></li>
+                </ul>-->
+                <!-- [END lib-lang__outer]-->
+                <div class="lib-utility__outer js-scroll-out">
+                  <ul class="lib-utility__list">
+                    <li class="lib-utility__item"><a class="js-scroll-out" href="/faq1/"><span class="txt">よくあるご質問</span></a></li>
+                    <li class="lib-utility__item"><a class="js-scroll-out" href="/user_support/"><span class="txt">お客様へ</span></a></li>
+                  </ul>
+                </div>
+                <!-- [END lib-utility__outer]-->
+                <ul class="lib-nav__list js-child__list" id="lib-header-nav" tabindex="0">
+                  <!-- [START li.lib-nav__item]-->
+                  <li class="lib-nav__item"><a class="lib-nav__btn js-child__focus" href="/about/" target=""><span class="txt">ファーストケアとは？</span></a></li>
+                  <!-- [END li.lib-nav__item]-->
+                  <!-- [START .lib-nav__item]-->
+                  <li class="lib-nav__item js-gnav__item">
+                    <button class="lib-nav__btn js-child__focus js-child__btn" aria-expanded="false" aria-controls="panel-function"><span class="txt">機能一覧</span></button>
+                    <div class="lib-child__panel js-child__panel" aria-hidden="true" id="panel-function">
+                      <div class="lib-child__outer">
+                        <div class="lib-child__item --headline"><a href="/function/" target=""><span class="txt">機能一覧 <span class="d-inline-block d-sm-none">TOP</span></span></a></div>
+                        <!-- [END .lib-child__item-->
+                        <ul class="lib-child__list">
+                          <!-- [START .lib-child__item]-->
+                          <li class="lib-child__item"><a href="/function/home_visit_services/" target=""><span class="txt">居宅サービス</span></a></li>
+                          <li class="lib-child__item"><a href="/function/home_care_support/" target=""><span class="txt">居宅介護支援サービス</span></a></li>
+                          <li class="lib-child__item"><a href="/function/eldery/" target=""><span class="txt">高齢者住宅（入居系サービス）</span></a></li>
+                          <li class="lib-child__item"><a href="/function/shisetsu-service/" target=""><span class="txt">施設サービス</span></a></li>
+                          <li class="lib-child__item"><a href="/function/chikimixtuchaku_services/" target=""><span class="txt">地域密着型サービス</span></a></li>
+                        </ul>
+                      </div>
+                      <!-- [END .lib-child__outer]-->
+                    </div>
+                    <!-- [END lib-child__panel]-->
+                  </li>
+                  <!-- [END li.lib-nav__item]-->
+
+                  <!-- [START .lib-nav__item]-->
+                  <li class="lib-nav__item js-gnav__item">
+                    <button class="lib-nav__btn js-child__focus js-child__btn" aria-expanded="false" aria-controls="panel-option"><span class="txt">オプション</span></button>
+                    <div class="lib-child__panel js-child__panel" aria-hidden="true" id="panel-option">
+                      <div class="lib-child__outer">
+                        <div class="lib-child__item --headline"><a href="/option/" target=""><span class="txt">オプション <span class="d-inline-block d-sm-none">TOP</span></span></a></div>
+                        <!-- [END .lib-child__item-->
+                        <ul class="lib-child__list">
+                          <!-- [START .lib-child__item]-->
+                          <li class="lib-child__item"><a href="/option/firstcare_portable/" target=""><span class="txt">ファーストケア・ポータブル</span></a></li>
+                          <!-- [START .lib-child__item]-->
+                          <li class="lib-child__item"><a href="/option/asign_pro_mobile/" target=""><span class="txt">ファーストケア・アサインPro/アサインモバイル</span></a></li>
+                          <!-- [START .lib-child__item]-->
+                          <li class="lib-child__item"><a href="/option/total_management/" target=""><span class="txt">ファーストケア・トータルマネジメント</span></a></li>
+                          <!-- [START .lib-child__item]-->
+                          <li class="lib-child__item"><a href="/option/other/#link01" target=""><span class="txt">スマート伝送（国保連伝送オプション）</span></a></li>
+                          <!-- [START .lib-child__item]-->
+                          <li class="lib-child__item"><a href="/option/other/#link02" target=""><span class="txt">楽らくNetFax</span></a></li>
+                          <!-- [START .lib-child__item]-->
+                          <li class="lib-child__item"><a href="/option/other/#link03" target=""><span class="txt">売掛入金管理/口座振替管理</span></a></li>
+
+                          <!-- [START .lib-child__item]-->
+                         <!--<li class="lib-child__item"><a href="/firstcare_honey/" target=""><span class="txt">ファーストケアHoney</span></a></li>-->
+                        </ul>
+                      </div>
+                      <!-- [END .lib-child__outer]-->
+                    </div>
+                    <!-- [END lib-child__panel]-->
+                  </li>
+                  <!-- [END li.lib-nav__item]-->
+
+                  <!-- [START li.lib-nav__item]-->
+                  <li class="lib-nav__item"><a class="lib-nav__btn js-child__focus" href="/needs/" target=""><span class="txt">お悩みから探す</span></a></li>
+                  <!-- [END li.lib-nav__item]-->
+                  <!-- [START li.lib-nav__item]-->
+                  <li class="lib-nav__item"><a class="lib-nav__btn js-child__focus" href="/support/" target=""><span class="txt">サポート体制</span></a></li>
+                  <!-- [END li.lib-nav__item]-->
+                  <!-- [START li.lib-nav__item]-->
+                  <li class="lib-nav__item"><a class="lib-nav__btn js-child__focus" href="/casestudy/" target=""><span class="txt">導入事例</span></a></li>
+                  <!-- [END li.lib-nav__item]-->
+                  <!-- [START li.lib-nav__item]-->
+                  <li class="lib-nav__item"><a class="lib-nav__btn js-child__focus" href="/download/" target=""><span class="txt">資料DL</span></a></li>
+                  <!-- [END li.lib-nav__item]-->
+
+                </ul>
+                <ul class="lib-induce__outer">
+                  <li><a class="lib-induce__btn ico-before-mail bg-main bg-fill" href="/contact/"><span class="txt">お問い合わせ<span class="inhide">はこちら</span></span></a></li>
+                  <li><a class="lib-induce__btn ico-before-sarr bg-accent bg-fill" href="/trial_contact/" target=""><span class="txt">体験版<span class="inhide">で始める</span></span><span class="sr-only">新しいWindowで開きます</span></a></li>
+                </ul>
+                <!-- [END lib-induce__outer]-->
+              </div>
+              <!-- [END lib-nav__outer]-->
+            </div>
+            <!-- [END lib-nav__cover]-->
+          </nav>
+          <!-- [END lib-nav__panel]-->
+        </div>
+        <!-- [END lib-header__inner]-->
+      </div>
+      <!-- [END lib-header__outer]-->
+
+  <nav class="lib-breadcrumb__outer" aria-label="Breadcrumbs">
+    <div class="lib-breadcrumb__inside">
+      <ol class="lib-breadcrumb__list" itemscope itemtype="http://schema.org/BreadcrumbList">
+      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://www.fc-soft.jp/" itemprop="item"><span itemprop="name">HOME</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://www.fc-soft.jp/trial_contact/" itemprop="item" aria-current="location"><span itemprop="name">ファーストケア体験版お申し込みフォーム</span></a><meta itemprop="position" content="2" /></li>
+      </ol>
+    </div>
+  </nav>
+  
+  <main id="contents">
+    <!-- ブロック貼り付けエリア -->
+    <div id="dcms_layoutPageBlockPasteArea">
+    <!-- ブロック -->
+    <div id="dcms_layoutPageBlock">
+    <div class="lib-hero__outer js-page-main">
+<div class="lib-hero__txtarea wrap">
+<div class="lib-hero__inner">
+<h1 class="lib-hero__title title">ファーストケア体験版お申し込みフォーム</h1>
+</div>
+</div>
+</div>
+<script id="_bownow_cs_sid_704975721d89575508ad">
+var _bownow_cs_sid_704975721d89575508ad = document.createElement('script');
+_bownow_cs_sid_704975721d89575508ad.charset = 'utf-8';
+_bownow_cs_sid_704975721d89575508ad.src = 'https://contents.bownow.jp/forms/sid_704975721d89575508ad/trace.js';
+document.getElementsByTagName('head')[0].appendChild(_bownow_cs_sid_704975721d89575508ad);
+</script>
+
+    </div><!-- // ブロック -->
+    </div><!-- // ブロック貼り付けエリア -->
+  
+  </main>
+  <div class="lib-column__side">
+  
+
+  </div>
+  <div class="lib-cta__outer lib-cta-BS01 bg-gry --fill bg-center" style="background-image:url(/dcms_media/image/cta-bg.webp);">
+        <div class="container">
+          <div class="bg-wht --fill-box lib-cta-BS01__inside">
+            <div class="lib-title__outer --def">
+              <h2 class="title text-center">お問い合わせ</h2>
+            </div>
+            <!-- // lib-cta-title__outer-->
+            <div class="lib-txt__outer">
+              <p class="text-sm-center">介護現場の業務負担を軽減し、効率化と質の高いケアの実現をサポートする「ファーストケア」シリーズ。<br />請求・記録・計画書を一元管理し、現場の時間と手間を大幅に削減します。ご相談や資料請求はお気軽にお問い合わせください。</p>
+            </div>
+            <!-- // lib-cta-txt__outer-->
+            <div class="lib-cta-BS01__btn container --min mw-sm">
+              <ul class="row row-cols-1 row-cols-md-2 gy-2 lib-btn__outer --grid">
+                <li class="col"><a class="lib-link__btn sizeL bg-main bg-fill ico-before-mail" href="/contact/"><span class="txt">お問い合わせ</span></a></li>
+                <li class="col"><a class="lib-link__btn sizeL bg-accent bg-fill ico-before-dl" href="/download/"><span class="txt">資料ダウンロード</span></a></li>
+              </ul>
+            </div>
+            <!-- // lib-cta-BS01__btn-->
+            <div class="lib-cta-BS01__phone container --mdl lib-wide__outer --fill-box bg-lgry text-md-center px-xl-4">
+        <dl class="lib-cta__phone lh-sm text-center text-md-start">
+          <dt><span class="txt ico-before-phone fs-h4 fw-bold">お電話でのお問い合わせ</span></dt>
+          <dd>
+            <p class="num text-def fw-bold"><span class="tel">0120ｰ27ｰ8117</span></p>
+            <p class="time mt-2 mt-md-0 text-md-center text-xl-start">10:00～17:00 ※土日・祝祭日を除く</p>
+          </dd>
+        </dl>
+        <dl class="lib-cta__phone lh-sm text-center text-md-start mt-4 mt-xl-0">
+          <dt><span class="txt ico-before-sphone fs-h4 fw-bold">携帯からのお問い合わせ</span></dt>
+          <dd>
+            <p class="num text-def fw-bold"><span class="tel">044ｰ281ｰ3475</span></p>
+            <p class="time mt-2 mt-md-0 text-md-center text-xl-start">10:00～17:00 ※土日・祝祭日を除く</p>
+          </dd>
+        </dl>
+      </div>
+            <!-- // lib-cta-BS01__phone-->
+          </div>
+          <!-- // lib-cta-BS01__inside-->
+        </div>
+        <!-- // container-->
+      </div>
+      <!-- // lib-cta-BS01-->
+<footer class="js-footer lib-footer__outer lib-footer-BS01" role="contentinfo" id="footer" tabindex="0">
+  <div class="lib-pagetop__btn js-pagetop__btn"><a href="#" aria-label="ページTOPへ戻る"><span class="txt"><span class="in">PAGE TOP</span></span></a></div>
+  <div class="lib-footer__inner wrap">
+    <div class="lib-footer__container row">
+      <div class="lib-footer__info col col-12 col-sm-12 col-md-5">
+        <a href="https://www.bee-system.co.jp/" rel="noopener" target="_blank"><img src="/dcms_media/image/f-logo3.webp" alt="FirstCare" loading="lazy"><span class="sr-only">新しいWindowで開きます</span></a>
+        <dl class="lib-footer__data text-center text-sm-start">
+          <!-- <dt>株式会社ビーシステム</dt> -->
+          <dd class="lib-footer__add">
+            <p>〒215-0021  <span class="d-inline-block d-md-block">神奈川県川崎市麻生区上麻生1-5-2<span class="d-inline-block d-md-block">小田急新百合ヶ丘ビル4階</span></span></p>
+          </dd>
+          <dd class="lib-footer__phone">
+            <p><span class="d-inline-block">TEL:<span class="tel">044-959-5885</span>(代表)</span> <span class="d-inline-block"><span class="tel">044-281-3475</span>(営業部)</span><br /><span class="d-inline-block">FAX:044-959-5886</span></p>
+          </dd>
+          <!--<dd>
+          <ul class="lib-footer__sns">
+              <li><a class="--fb" href="#" aria-label="facebook" target="_blank"><span class="sr-only">facebook</span></a></li>
+              <li><a class="--x" href="#" aria-label="X" target="_blank"><span class="sr-only">X</span></a></li>
+              <li><a class="--ig" href="#" aria-label="instagram" target="_blank"><span class="sr-only">instagram</span></a></li>
+            </ul>
+          </dd>-->
+        </dl>
+      </div>
+      <!--[END lib-footer__info]-->
+      <div class="lib-footer__gnav col col-12 col-sm-12 col-md-7">
+        <div class="lib-footer__child row gy-sm-3">
+          <div class="col-12 col-lg-9">
+            <div class="row row-cols-1 row-cols-sm-2">
+              <div class="col">
+                <ul class="lib-footer__nav">
+                  <li class="lib-footer__title"><a href="/about/" target=""><span class="txt">ファーストケアとは？</span></a>
+                    <!--<ul class="lib-footer__list">
+                      <li class="lib-footer__item"><a href="/firstcare_honey/" target=""><span class="txt">ファーストケアHoney</span></a></li>
+
+                    </ul>-->
+                  </li>
+                  <li class="lib-footer__title"><a href="/function/" target=""><span class="txt">機能一覧</span></a>
+                    <ul class="lib-footer__list">
+                      <li class="lib-footer__item"><a href="/function/home_visit_services/" target=""><span class="txt">居宅サービス</span></a></li>
+                      <li class="lib-footer__item"><a href="/function/home_care_support/" target=""><span class="txt">居宅介護支援サービス</span></a></li>
+                      <li class="lib-footer__item"><a href="/function/eldery/" target=""><span class="txt">高齢者住宅<br />（入居系サービス）</span></a></li>
+                      <li class="lib-footer__item"><a href="/function/shisetsu-service/" target=""><span class="txt">施設サービス</span></a></li>
+                      <li class="lib-footer__item"><a href="/function/chikimixtuchaku_services/" target=""><span class="txt">地域密着型サービス</span></a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+              <!-- / col-->
+              <div class="col">
+                <ul class="lib-footer__nav">
+                  <li class="lib-footer__title"><a href="/option/" target=""><span class="txt">オプション</span></a>
+                    <ul class="lib-footer__list">
+                      <li class="lib-footer__item"><a href="/option/firstcare_portable/" target=""><span class="txt">ファーストケア・ポータブル</span></a></li>
+                      <li class="lib-footer__item"><a href="/option/asign_pro_mobile/" target=""><span class="txt">ファーストケア・<br />アサインPro/アサインモバイル</span></a></li>
+                      <li class="lib-footer__item"><a href="/option/total_management/" target=""><span class="txt">ファーストケア・<br />トータルマネジメント</span></a></li>
+                      <li class="lib-footer__item"><a href="/option/other/#link01" target=""><span class="txt">スマート伝送<br>（国保連伝送オプション）</span></a></li>
+                      <li class="lib-footer__item"><a href="/option/other/#link02" target=""><span class="txt">楽らくNetFax</span></a></li>
+                      <li class="lib-footer__item"><a href="/option/other/#link03" target=""><span class="txt">売掛入金管理・口座振替管理</span></a></li>
+                      <!--<li class="lib-footer__item"><a href="/firstcare_honey/" target=""><span class="txt">ファーストケアHoney</span></a></li>-->
+
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+              <!-- / col-->
+            </div>
+            <!-- / row-->
+          </div>
+          <!-- / .col-->
+          <div class="col col-12 col-lg-3 px-lg-0">
+            <ul class="lib-footer__nav">
+              <li class="lib-footer__title"><a href="/needs/" target=""><span class="txt">お悩みから探す</span></a></li>
+              <li class="lib-footer__title"><a href="/support/" target=""><span class="txt">サポート体制</span></a></li>
+              <li class="lib-footer__title"><a href="/casestudy/" target=""><span class="txt">導入事例</span></a></li>
+              <li class="lib-footer__title"><a href="/media/" target=""><span class="txt">お役立ちコラム</span></a></li>
+              <li class="lib-footer__title"><a href="/download/" target=""><span class="txt">資料DL</span></a></li>
+              <li class="lib-footer__title"><a href="/faq1/" target=""><span class="txt">よくあるご質問</span></a></li>
+              <li class="lib-footer__title"><a href="/user_support/" target=""><span class="txt">お客様へ</span></a></li>
+            </ul>
+          </div>
+          <!-- / .col-->
+        </div>
+        <!-- [END lib-footer__child]-->
+      </div>
+      <!-- [END lib-footer__gnav]-->
+    </div>
+    <!-- [END lib-footer__container]-->
+    <div class="lib-footer__utility">
+      <ul class="lib-footer__guidance">
+        <li><a href="/privacy/"><span class="txt">プライバシーポリシー</span></a></li>
+        <li><a href="/accessibility_guidelines/"><span class="txt">ウェブアクセシビリティ対応方針</span></a></li>
+        <li><a href="/sitemap/"><span class="txt">サイトマップ</span></a></li>
+      </ul>
+    </div>
+  </div>
+  <!-- [END lib-footer__inner]-->
+  <p class="lib-footer__copyright bg-main"><small>Copyright © Bee System Co. <span class="ib">All Rights Reserved.</span></small></p>
+</footer>
+<!-- [END lib-footer__outer]-->
+
+</div><!-- / wrapper -->
+  <!-- BODYDOWNCODE -->
+</body>
+</html>

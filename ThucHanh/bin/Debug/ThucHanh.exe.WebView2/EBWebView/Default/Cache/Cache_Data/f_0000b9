@@ -1,0 +1,1115 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html lang="ja" class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]> <html lang="ja" class="no-js lt-ie10 lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <html lang="ja" class="no-js lt-ie10 lt-ie9"> <![endif]-->
+<!--[if IE 9]> <html lang="ja" class="no-js lt-ie10"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="ja" class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="turbolinks-cache-control" content="no-cache">
+  <meta name="format-detection" content="telephone=no">
+  <link rel="stylesheet" media="all" href="/assets/font-awesome.min-960a45ff24bc8047cbcf3f435c7ef994cbbabd099deb641e6c55a5f290455a43.css" data-turbolinks-track="reload" />
+  <style id="contact-body-css">@charset "UTF-8";
+body {
+  margin: 0; }
+
+@media only screen and (max-width: 690px) {
+  body {
+    font-size: 16px; } }
+
+@media only screen and (max-width: 979px) {
+  body input,
+  body button,
+  body textarea select {
+    font-size: 16px; } }
+
+* {
+  box-sizing: border-box; }
+
+body,
+input,
+textarea,
+select,
+button {
+  font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "ヒラギノ角ゴ3", "メイリオ", Meiryo, "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "ＭＳ Ｐゴシック", "MS PGothic", system-ui, sans-serif; }
+
+body.th,
+body.th input,
+body.th textarea,
+body.th select,
+body.th button {
+  font-family: "K2D", sans-serif; }
+
+body.vi,
+body.vi input,
+body.vi textarea,
+body.vi select,
+body.vi button {
+  font-family: "Roboto", sans-serif; }
+
+input[type="text"],
+input[type="password"],
+textarea,
+select {
+  max-width: 100%; }
+
+@media only screen and (max-width: 690px) {
+  input[type="text"],
+  input[type="password"],
+  textarea,
+  select {
+    font-size: 16px; } }
+
+.page-lead {
+  font-weight: normal; }
+
+.animated {
+  animation-duration: 1s;
+  animation-fill-mode: both; }
+
+.animated.infinite {
+  animation-iteration-count: infinite; }
+
+@keyframes fadeInUp {
+  from {
+    transform: translate3d(0, 100%, 0);
+    opacity: 0; }
+  to {
+    transform: none;
+    opacity: 1; } }
+
+.fadeInUp {
+  display: block;
+  animation-name: fadeInUp; }
+
+@keyframes fadeOutDown {
+  from {
+    opacity: 1; }
+  to {
+    transform: translate3d(0, 100%, 0);
+    opacity: 0; } }
+
+.fadeOutDown {
+  animation-name: fadeOutDown !important; }
+
+.preview-form-group fieldset {
+  margin: 0 10%;
+  padding: 20px 40px 30px;
+  border: #ccc 1px solid;
+  border-radius: 5px;
+  background-color: #eee; }
+
+@media only screen and (max-width: 568px) {
+  .preview-form-group fieldset {
+    margin: 0;
+    padding: 10px 20px 15px; } }
+
+fieldset .form-preview-dl input[type="text"],
+fieldset .form-preview-dl input[type="password"] {
+  background-color: #fff; }
+
+@media only screen and (min-width: 980px) {
+  fieldset .form-preview-dl input[type="text"]:hover,
+  fieldset .form-preview-dl input[type="password"]:hover {
+    border: 1px solid #329bd2;
+    background-color: rgba(0, 0, 0, 0.2); } }
+
+fieldset .form-preview-dl input[type="text"]:focus,
+fieldset .form-preview-dl input[type="password"]:focus {
+  background-color: rgba(0, 0, 0, 0.05);
+  box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.2); }
+
+.form-preview-dl {
+  width: 100%;
+  margin: 0;
+  padding: 20px 0 15px;
+  float: left;
+  border-bottom: #e2e2e2 1px solid; }
+
+.form-preview-dl:after {
+  display: table;
+  clear: both;
+  content: ''; }
+
+.form-preview-dl.form-preview-dl-continue {
+  padding-bottom: 0;
+  border-bottom: none; }
+
+.form-preview-dl[data-type='address'] #jpostal-execute {
+  margin-left: 8px; }
+
+.form-preview-dl[data-type='address'] input[type="button"] {
+  padding: 4px 8px;
+  border-style: none;
+  background-color: #329bd2;
+  color: #fff;
+  font-size: 12px;
+  font-weight: bold; }
+
+.form-preview-dl[data-type='address'] input[type="button"]:hover {
+  background-color: #329bd2;
+  color: #fff; }
+
+.form-preview-dl[data-type='address'] .form-preview-input01-half {
+  display: inline-block;
+  width: 80px;
+  margin-right: 8px; }
+
+.form-preview-dl[data-type="radio"] dt,
+.form-preview-dl[data-type="checkbox"] dt,
+.form-preview-dl[data-type="textarea"] dt,
+.form-preview-dl[data-type="personal-info"] dt {
+  padding-top: 0;
+  padding-bottom: 0; }
+
+@media only screen and (max-width: 690px) {
+  .form-preview-dl[data-type="radio"] dt,
+  .form-preview-dl[data-type="checkbox"] dt,
+  .form-preview-dl[data-type="textarea"] dt,
+  .form-preview-dl[data-type="personal-info"] dt {
+    display: block;
+    margin-left: 0;
+    padding-top: 11px;
+    padding-bottom: 11px; } }
+
+.form-preview-dl-continue.form-preview-haserror + .form-preview-dl {
+  background-color: #ffe8e8; }
+
+.form-preview-dl .form-preview-dl {
+  padding-top: 10px;
+  padding-bottom: 0;
+  clear: both; }
+
+.form-preview-dl input,
+.form-preview-dl button,
+.form-preview-dl textarea,
+.form-preview-dl select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: none;
+  border-radius: 0; }
+
+.form-preview-dl input[type="text"],
+.form-preview-dl input[type="password"] {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  height: 38px;
+  padding: 8px;
+  border: 1px solid #bebebe;
+  background: #f5f5f5;
+  font-size: 16px;
+  line-height: 32px;
+  /*text-indent: 5px;*/
+  transition: all .2s ease; }
+
+.form-preview-dl input.form-preview-input01-half[type="text"] {
+  display: inline-block;
+  width: 40px;
+  margin-right: 8px; }
+
+.form-preview-dl select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  box-sizing: border-box;
+  width: 50%;
+  padding: 8px 24px 8px 8px;
+  border: 1px solid #bebebe;
+  border-radius: 0;
+  background-color: #f5f5f5;
+  transition: all .2s ease;
+  overflow-x: scroll; }
+
+.form-preview-dl select[multiple] {
+  width: 100%; }
+
+.form-preview-dl select::-ms-expand {
+  display: none; }
+
+.form-preview-dl select:not([multiple]) {
+  height: 38px; }
+
+.form-preview-dl select:focus,
+.form-preview-dl select:hover {
+  background-position: right 10px center;
+  background-size: 10px 7px; }
+
+.form-preview-dl select:not([multiple]) {
+  background: #f5f5f5 url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAOCAYAAAArMezNAAAAeElEQVQ4T62UURIAEQxD6/6HXmMX0yVtFH76oXkTUZKIPPKtVOtpeXkF1sA34J01gk/g2uDkuMUQjeUH1e6mjUDmUKud7cBNzXjkCNztRVmuwGmPdUmekELZaCEAejzQHBsrBjf1DFwcWnBXuwJGcKqjDSrU0GeVAW59Fwse//ByAAAAAElFTkSuQmCC") no-repeat;
+  background-position: right 10px center;
+  background-size: 10px 7px; }
+
+.form-preview-dl select:not([multiple]) option {
+  padding: 4px; }
+
+.form-preview-dl select[multiple~="multiple"] {
+  padding-right: 0; }
+
+@media only screen and (min-width: 979px) {
+  .form-preview-dl select[multiple~="multiple"] option {
+    padding: 0; } }
+
+.form-preview-dl textarea {
+  box-sizing: border-box;
+  width: 100% !important;
+  padding: 8px;
+  border: 1px solid #bebebe;
+  background: #f5f5f5; }
+
+.form-preview-dl > dt {
+  box-sizing: border-box;
+  width: 260px;
+  padding: 11px 16px 11px 4px;
+  float: left; }
+
+.form-preview-dl > dt:after {
+  display: table;
+  clear: both;
+  content: ''; }
+
+@media only screen and (max-width: 690px) {
+  .form-preview-dl > dt {
+    width: 100%;
+    padding: 11px 0;
+    float: none; } }
+
+.form-preview-dl > dt span {
+  box-sizing: border-box;
+  display: block;
+  width: calc(2.5em + 10px);
+  float: left; }
+
+.form-preview-dl > dt span + span {
+  word-wrap: break-word !important;
+  box-sizing: border-box;
+  width: calc(100% - (2.5em + 10px));
+  padding-left: 8px;
+  line-height: 1.4;
+  overflow-wrap: break-word !important; }
+
+.form-preview-dl input[type="checkbox"],
+.form-preview-dl input[type="radio"] {
+  display: none; }
+
+.form-preview-dl input[type="checkbox"]:checked + .labeled_text,
+.form-preview-dl input[type="radio"]:checked + .labeled_text {
+  color: #329bd2; }
+
+.form-preview-dl input[type="checkbox"]:checked + .labeled_text:after,
+.form-preview-dl input[type="radio"]:checked + .labeled_text:after {
+  display: block;
+  position: absolute;
+  content: ''; }
+
+.form-preview-dl input[type="checkbox"] + .labeled_text:before,
+.form-preview-dl input[type="radio"] + .labeled_text:before {
+  display: block;
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 14px;
+  height: 14px;
+  border: 1px solid #ddd;
+  background-color: #fff;
+  content: ''; }
+
+.form-preview-dl input[type="checkbox"]:checked + .labeled_text {
+  color: #329bd2; }
+
+.form-preview-dl input[type="checkbox"]:checked + .labeled_text:after {
+  top: 3px;
+  left: 5px;
+  width: 5px;
+  height: 9px;
+  transform: rotate(40deg);
+  border-right: 2px solid #329bd2;
+  border-bottom: 2px solid #329bd2; }
+
+.form-preview-dl input[type="radio"]:checked + .labeled_text:after {
+  top: 6px;
+  left: 4px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #329bd2; }
+
+.form-preview-dl input[type="radio"] + .labeled_text:before {
+  border-radius: 50%; }
+
+.form-preview-dl > dd {
+  box-sizing: border-box;
+  width: calc(100% - 260px);
+  margin-left: 0;
+  padding-right: 5px;
+  padding-left: 5px;
+  float: right;
+  word-break: break-all; }
+
+@media only screen and (max-width: 690px) {
+  .form-preview-dl > dd {
+    width: 100%;
+    margin-left: 0;
+    float: none; } }
+
+.form-preview-dl > dd.form-preview-file-attach {
+  padding-top: 7px; }
+
+.form-preview-dl > dd.form-preview-file-attach .form-preview-alert-text {
+  top: 9px; }
+
+.form-preview-dl > dd label {
+  display: inline-block;
+  margin-top: 8px;
+  margin-right: 16px;
+  margin-bottom: 4px; }
+
+@media only screen and (max-width: 568px) {
+  .form-preview-dl > dd label {
+    display: block;
+    padding-bottom: 0px;
+    font-size: 16px; } }
+
+.form-preview-dl > dd label + br {
+  display: none; }
+
+.form-preview-dl > dd .form-preview-input01-half {
+  vertical-align: middle; }
+
+.form-preview-dl > dd .form-preview-input01-half.form-preview-input01-half--name {
+  width: 108px; }
+
+.form-preview-dl > dd .form-preview-confirm-text {
+  display: block;
+  padding-top: 11px; }
+
+.form-preview-dl > dd input[type='file'] {
+  width: auto;
+  max-width: 100%; }
+
+.form-preview-dl > dd input[type='file']:hover {
+  border: none; }
+
+.form-preview-dl-child {
+  margin: 0;
+  padding: 12px 0px; }
+
+.form-preview-dl-child:first-child {
+  margin-top: 0px;
+  padding: 0 0px 12px; }
+
+.form-preview-dl-child input.form-preview-input01[type="text"] {
+  width: 100%; }
+
+.form-preview-dl-child input.form-preview-input01-half[type="text"] {
+  display: inline-block;
+  width: 40px;
+  margin-right: 8px; }
+
+.form-preview-dl-child dt {
+  width: 100px;
+  padding: 8px 0;
+  float: left;
+  line-height: 32px; }
+
+.form-preview-dl-child dd {
+  margin-left: 100px; }
+
+@media only screen and (max-width: 568px) {
+  .form-preview-dl-child dd.dd-inline-input input[type="text"] {
+    width: 100px; } }
+
+@media only screen and (max-width: 568px) {
+  .form-preview-dl-child dd input[type="text"] {
+    width: 100%; } }
+
+.form-preview-dl-has-child {
+  margin: 0;
+  padding: 20px 0 10px; }
+
+.form-preview-dl-has-child > dt {
+  padding-top: 5px; }
+
+.form-preview-dl .labeled_text {
+  position: relative;
+  padding-left: 20px; }
+
+.form-preview-dl a {
+  padding: 0 2px;
+  color: #329bd2; }
+
+.form-preview-dl a:hover {
+  opacity: 0.7; }
+
+.form-preview-dl label {
+  padding: 0 4px; }
+
+.form-preview-dl label:hover {
+  background: rgba(0, 0, 0, 0.1); }
+
+@media only screen and (min-width: 980px) {
+  .form-preview-dl input:hover,
+  .form-preview-dl textarea:hover,
+  .form-preview-dl select:hover {
+    border: 1px solid #329bd2;
+    background-color: rgba(0, 0, 0, 0.2); } }
+
+.form-preview-dl input:focus,
+.form-preview-dl textarea:focus,
+.form-preview-dl select:focus {
+  background-color: rgba(0, 0, 0, 0.05);
+  box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.2); }
+
+.form-preview-reqiured {
+  display: inline-block !important;
+  padding: 2px 5px;
+  background-color: #ce052c;
+  color: #fff;
+  font-size: 12px;
+  font-weight: normal;
+  line-height: normal;
+  text-align: center;
+  vertical-align: middle; }
+
+.form-preview-not-reqiured {
+  display: inline-block !important;
+  padding: 2px 5px;
+  background-color: #777;
+  color: #fff;
+  font-size: 12px;
+  font-weight: normal;
+  line-height: normal;
+  text-align: center;
+  vertical-align: middle; }
+
+.form-preview-help-text {
+  margin-top: 5px;
+  margin-bottom: 0;
+  color: #666;
+  font-size: 90%; }
+
+.form-preview-help-text p {
+  margin-top: 0; }
+
+.form-preview-alert-text {
+  margin: 5px 0 0px;
+  color: #e35353;
+  font-size: 90%; }
+
+.ime-half {
+  ime-mode: disabled; }
+
+.show-page:after {
+  display: block;
+  height: 0;
+  clear: both;
+  font-size: 0;
+  content: '';
+  visibility: hidden; }
+
+.show-page-btn {
+  margin: 40px auto 0;
+  clear: both;
+  font-size: 0; }
+
+.show-page-btn .btn {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  min-width: 240px;
+  margin-right: 5px;
+  margin-bottom: 80px;
+  padding: 16px 48px;
+  border: solid 1px #329bd2;
+  border-radius: 4px;
+  background-color: #329bd2;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: all .2s ease; }
+
+.show-page-btn .btn:last-child {
+  margin-right: 0; }
+
+.show-page-btn .btn:active,
+.show-page-btn .btn:hover {
+  background-color: #2886b9; }
+
+.preview-login-form .form-preview-dl {
+  border-bottom: none; }
+
+@media only screen and (max-width: 568px) {
+  .preview-login-form .form-preview-dl {
+    margin-bottom: 0;
+    padding-bottom: 0; } }
+
+.preview-login-form .form-preview-dl dt {
+  width: 100%; }
+
+.preview-login-form .form-preview-dl dd {
+  width: 100%;
+  margin-left: 0; }
+
+.preview-login-form .show-page-btn {
+  padding-top: 20px; }
+
+@media only screen and (max-width: 568px) {
+  .preview-login-form .show-page-btn .btn {
+    min-width: 140px;
+    padding: 16px 8px;
+    font-size: 16px; } }
+
+.preview-login-form-title {
+  margin-bottom: 24px;
+  text-align: center; }
+
+.preview-login-form-footer {
+  margin-top: 24px; }
+
+.preview-login-form-reminder {
+  text-align: center; }
+
+.preview-login-form-reminder a {
+  color: #329bd2; }
+
+.preview-login-form-reminder a:before {
+  display: inline-block;
+  width: 4px;
+  height: 4px;
+  margin-right: 8px;
+  transform: rotate(45deg);
+  border-top: 2px solid #329bd2;
+  border-right: 2px solid #329bd2;
+  content: '';
+  vertical-align: middle; }
+
+@media only screen and (max-width: 568px) {
+  .form-preview-wrap .show-page-btn .btn {
+    min-width: 140px;
+    padding: 16px 8px;
+    font-size: 16px; } }
+
+.form-preview-haserror {
+  position: relative;
+  margin-bottom: 0;
+  padding-top: 3rem !important;
+  background-color: #ffe8e8; }
+
+.form-preview-haserror .form-preview-alert-text {
+  display: block;
+  position: absolute;
+  top: 3px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: red;
+  color: #fff;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); }
+
+@media only screen and (max-width: 690px) {
+  .form-preview-haserror .form-preview-alert-text {
+    top: 0; } }
+
+.form-preview-haserror .form-preview-alert-text:after {
+  position: absolute;
+  bottom: -7px;
+  left: 5px;
+  width: 0;
+  height: 0;
+  border-width: 8px 7px 0 7px;
+  border-style: solid;
+  border-color: red transparent transparent;
+  content: ''; }
+
+@media only screen and (max-width: 568px) {
+  .input-name-label {
+    display: block;
+    float: left;
+    line-height: 32px; } }
+
+@media only screen and (max-width: 568px) {
+  .input-name-label + input {
+    width: 100% !important; } }
+
+.form-preview-dl {
+  max-width: 100vw; }
+
+.form-preview-dl-child {
+  max-width: calc(100vw - 10px); }
+
+#preview-line-login {
+  text-align: center; }
+</style>
+  <style>
+    input.hidden {
+      display: none !important;
+    }
+    .modal-backdrop.ajax.fade {
+      opacity: 0.2;
+      background-color: #ffffff;
+      z-index: 99999;
+      position: fixed;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      left: 0;
+    }
+  </style>
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries-->
+  <!--[if lt IE 9]>
+  <script src="/assets/html5shiv-5d3f1e06b966095da15a66e6418826287e4ac3f175586d740cbae4a6afa19008.js" data-turbolinks-track="reload"></script>
+  <script src="/assets/respond.min-aba18c4ac1c95ccc47a87b92b6036de771fe180c7baa1686906781a022ca7dfe.js" data-turbolinks-track="reload"></script>
+  <![endif]-->
+  <!-- [if !IE]> -->
+  <script src="/assets/jquery-2.0.3.min-7361cffa4efdad19686e88177794e8a877771d37bf357418d5f66d78c141fbb7.js" data-turbolinks-track="reload"></script>
+  <!-- <![endif]-->
+  <!--[if IE]>
+  <script src="/assets/jquery-1.10.2.min-057c4f8d3b3fa86d556ba9d0c256dba1df276d00fa0a1c44125810c4f95f3e58.js" data-turbolinks-track="reload"></script>
+  <![endif]-->
+  <script type="text/javascript">
+    if('ontouchend' in document) {
+      document.write('<script src=\"/assets/jquery.mobile.custom.min-4f41bc4b9d8f6e4a6371a10fae8fb348cdbc9dcafb6715115f5b0229793b272e.js\" data-turbolinks-track=\"reload\"><\/script>');
+    }
+  </script>
+  <script src="/assets/application-18b2423570b09885caa2263ddf518d9ce113328cae3410a7df7dfb318b96c17f.js" data-turbolinks-track="reload"></script>
+  <script>
+    (function(){
+      $(document).ready(function(){
+        $('a:not([target])').attr('target', '_parent');
+        $(document).on('click', '#cancel-btn', function(e) {
+          e.preventDefault();
+          $('#confirm-fields').hide().html('');
+          $('#form-fields').show();
+          setTimeout(function() {
+            try {
+              window.parent.postMessage( {id: '_bownow_iframe_sid_704975721d89575508ad', height: $('html').outerHeight()}, 'https://www.fc-soft.jp/trial_contact/');
+            } catch (e) {}
+          },10);
+        });
+        $(document).on('change', '#form-fields input[type="checkbox"]:not(.hidden)', function () {
+          $(this).next().next('input[type="checkbox"]').prop('checked', $(this).prop('checked'));
+          $(this).next().next('input[type="checkbox"]').next('input[type="checkbox"]').prop('checked', $(this).prop('checked'));
+        });
+        $(document).on('change', '#form-fields input[type="radio"]:not(.hidden)', function () {
+          $(this).next().next('input[type="radio"]').prop('checked', $(this).prop('checked'));
+          $(this).next().next('input[type="radio"]').next('input[type="radio"]').prop('checked', $(this).prop('checked'));
+        });
+        $(document).on('change', '#form-fields select:not([multiple="multiple"])', function () {
+          if ($(this).find('option:selected:not([value=""])').text()) {
+            $(this).next('input[type="hidden"]').val($(this).find('option:selected:not([value=""])').text());
+            if ($(this).find('option:selected:not([value=""])').val() === ("no_option_" + $(this).find('option:selected:not([value=""])').text())) {
+              $(this).next('input[type="hidden"]').next('input[type="hidden"]').val($(this).find('option:selected:not([value=""])').text());
+            } else {
+              $(this).next('input[type="hidden"]').next('input[type="hidden"]').val($(this).find('option:selected:not([value=""])').text() + '(' + $(this).find('option:selected:not([value=""])').attr('value') + ')');
+            }
+          } else {
+            $(this).next('input[type="hidden"]').val('');
+            $(this).next('input[type="hidden"]').next('input[type="hidden"]').val('');
+          }
+        });
+        $(document).on('change', '#form-fields select[multiple="multiple"]', function () {
+          var $self = $(this);
+          $self.next('.select_multiple_keys').html('');
+          $self.next('.select_multiple_keys').next('.select_multiple_key_values').html('');
+          $self.find('option:selected').each(function() {
+            var $key = $('<input type="hidden" name="' + $self.attr('name').replace('[]', '') + '_key[]" value="">');
+            $key.val($(this).text());
+            $self.next('.select_multiple_keys').append($key);
+
+            var $key_value = $('<input type="hidden" name="' + $self.attr('name').replace('[]', '') + '_key_value[]" value="">');
+            if ($(this).val() === ("no_option_" + $(this).text())) {
+              $key_value.val($(this).text());
+            } else {
+              $key_value.val($(this).text() + '(' + $(this).attr('value') + ')');
+            }
+            $self.next('.select_multiple_keys').next('.select_multiple_key_values').append($key_value);
+          });
+        });
+        $('#form-fields select').each(function() {
+          $(this).trigger('change');
+        });
+        $(window).one('load', function() {
+          setTimeout(function() {
+            try {
+              window.parent.postMessage( {id: '_bownow_iframe_sid_704975721d89575508ad', height: $('html').outerHeight()}, 'https://www.fc-soft.jp/trial_contact/');
+            } catch (e) {}
+          },10);
+        });
+        $(window).one('message', function(e) {
+          setTimeout(function() {
+            try {
+              if (e.originalEvent.data !== 'focus') { return }
+              window.parent.postMessage( {id: '_bownow_iframe_sid_704975721d89575508ad', height: $('html').outerHeight()}, 'https://www.fc-soft.jp/trial_contact/');
+            } catch (e) {}
+          },10);
+        });
+      });
+    }).call(this);
+  </script>
+  <title>ファーストケア体験版お申し込みフォーム</title>
+  
+</head>
+<body>
+
+<div class="form-preview-wrap">
+  <form class="preview-form-group" id="rc-form" enctype="multipart/form-data" action="https://contents.bownow.jp/forms/view/sid_704975721d89575508ad/60dd07c7-6e96-4fe9-bdc7-b5f2600beff4" accept-charset="UTF-8" data-remote="true" method="post">
+      <div id="form-fields">
+        <input type="hidden" name="referer" id="referer" value="https://www.fc-soft.jp/trial_contact/" autocomplete="off" />
+        <input type="hidden" name="title" id="title" value="ファーストケア体験版専用のお申し込みフォーム" autocomplete="off" />
+        
+        
+        <div class="fields show-page clearfix">
+              <dl class="form-preview-dl preview-checkbox-20250404162608161" id="contact-field-preview-7166b024-52e6-456d-9b4b-d118ecb7dc8c">
+  <dt>
+    <span class="preview-contact-required_label form-preview-reqiured">必須</span>
+    <span>サービス種類</span>
+  </dt>
+  <dd>
+        <label>
+          <input type="checkbox" name="check_box-20250404162608161[]" value="居宅サービス " />
+          <span class="labeled_text"> 居宅サービス </span>
+          <input type="checkbox" name="check_box-20250404162608161_key[]" value="居宅サービス " class="hidden" />
+            <input type="checkbox" name="check_box-20250404162608161_key_value[]" value="居宅サービス " class="hidden" />
+        </label>
+        <label>
+          <input type="checkbox" name="check_box-20250404162608161[]" value="居宅介護支援サービス" />
+          <span class="labeled_text"> 居宅介護支援サービス</span>
+          <input type="checkbox" name="check_box-20250404162608161_key[]" value="居宅介護支援サービス" class="hidden" />
+            <input type="checkbox" name="check_box-20250404162608161_key_value[]" value="居宅介護支援サービス" class="hidden" />
+        </label>
+        <label>
+          <input type="checkbox" name="check_box-20250404162608161[]" value="高齢者住宅（施設系サービス）" />
+          <span class="labeled_text"> 高齢者住宅（施設系サービス）</span>
+          <input type="checkbox" name="check_box-20250404162608161_key[]" value="高齢者住宅（施設系サービス）" class="hidden" />
+            <input type="checkbox" name="check_box-20250404162608161_key_value[]" value="高齢者住宅（施設系サービス）" class="hidden" />
+        </label>
+        <label>
+          <input type="checkbox" name="check_box-20250404162608161[]" value="施設サービス" />
+          <span class="labeled_text"> 施設サービス</span>
+          <input type="checkbox" name="check_box-20250404162608161_key[]" value="施設サービス" class="hidden" />
+            <input type="checkbox" name="check_box-20250404162608161_key_value[]" value="施設サービス" class="hidden" />
+        </label>
+        <label>
+          <input type="checkbox" name="check_box-20250404162608161[]" value="地域密着型サービス" />
+          <span class="labeled_text"> 地域密着型サービス</span>
+          <input type="checkbox" name="check_box-20250404162608161_key[]" value="地域密着型サービス" class="hidden" />
+            <input type="checkbox" name="check_box-20250404162608161_key_value[]" value="地域密着型サービス" class="hidden" />
+        </label>
+    <p class="form-preview-help-text"></p>
+    <p class="form-preview-alert-text"></p>
+  </dd>
+</dl>
+
+              <dl class="form-preview-dl preview-text-20250408110940914" id="contact-field-preview-a23c8d84-1707-43f7-b5a6-2e743b84158f">
+  <dt>
+    <span class="preview-contact-required_label form-preview-reqiured">必須</span>
+    <span>事業所番号</span>
+  </dt>
+  <dd>
+    <input type="text" name="text_field-20250408110940914" class="form-preview-input01" />
+    <p class="form-preview-help-text"></p>
+    <p class="form-preview-alert-text"></p>
+  </dd>
+</dl>
+
+              <dl class="form-preview-dl preview-text-20250403155118256" id="contact-field-preview-8f36d2f5-9c23-4a23-9d3d-343b8e5b43a2">
+  <dt>
+    <span class="preview-contact-required_label form-preview-reqiured">必須</span>
+    <span>事業所名</span>
+  </dt>
+  <dd>
+    <input type="text" name="text_field-20250403155118256" class="form-preview-input01" />
+    <p class="form-preview-help-text"></p>
+    <p class="form-preview-alert-text"></p>
+  </dd>
+</dl>
+
+              <dl class="form-preview-dl preview-text-20250403155131184" id="contact-field-preview-56db1cfc-74aa-468b-bf9f-f84fb30ef95e">
+  <dt>
+    <span class="preview-contact-required_label form-preview-reqiured">必須</span>
+    <span>事業所名フリガナ</span>
+  </dt>
+  <dd>
+    <input type="text" name="text_field-20250403155131184" class="form-preview-input01" />
+    <p class="form-preview-help-text"></p>
+    <p class="form-preview-alert-text"></p>
+  </dd>
+</dl>
+
+              <dl class="form-preview-dl preview-company" id="contact-field-preview-2b97ade6-efb8-4a4c-90f8-c63be8879493">
+  <dt>
+    <span class="preview-contact-not_required_label form-preview-not-reqiured">任意</span>
+    <span>法人名</span>
+  </dt>
+  <dd>
+    <input type="text" name="company_name" class="form-preview-input01" />
+    <p class="form-preview-help-text"></p>
+    <p class="form-preview-alert-text"></p>
+  </dd>
+</dl>
+
+              <dl class="form-preview-dl preview-text-20250129113506626" id="contact-field-preview-e51bd8a7-3668-4011-8e01-af5a307eba21">
+  <dt>
+    <span class="preview-contact-not_required_label form-preview-not-reqiured">任意</span>
+    <span>法人名フリガナ</span>
+  </dt>
+  <dd>
+    <input type="text" name="text_field-20250129113506626" class="form-preview-input01" />
+    <p class="form-preview-help-text"></p>
+    <p class="form-preview-alert-text"></p>
+  </dd>
+</dl>
+
+              <dl class="form-preview-dl preview-user-name" id="contact-field-preview-f490fb7d-1e95-4467-b2bc-4b6ebbb81ab6">
+  <dt>
+    <span class="preview-contact-required_label form-preview-reqiured">必須</span>
+    <span>ご担当者名</span>
+  </dt>
+  <dd>
+    姓
+    <input type="text" name="family_name" class="form-preview-input01 form-preview-input01-half" style="width: 108px;" />
+    名
+    <input type="text" name="given_name" class="form-preview-input01 form-preview-input01-half" style="width: 108px;" />
+    <p class="form-preview-help-text"></p>
+    <p class="form-preview-alert-text"></p>
+  </dd>
+</dl>
+
+              <dl class="form-preview-dl preview-user-kana" id="contact-field-preview-cf8717bf-b42c-4816-bb80-d6de4037f675">
+  <dt>
+    <span class="preview-contact-required_label form-preview-reqiured">必須</span>
+    <span>ご担当者名フリガナ</span>
+  </dt>
+  <dd>
+    セイ
+    <input type="text" name="family_kana" class="form-preview-input01 form-preview-input01-half" style="width: 108px;" />
+    メイ
+    <input type="text" name="given_kana" class="form-preview-input01 form-preview-input01-half" style="width: 108px;" />
+    <p class="form-preview-help-text"></p>
+    <p class="form-preview-alert-text"></p>
+  </dd>
+</dl>
+
+              <dl class="form-preview-dl preview-address" id="contact-field-preview-022de61a-d130-45ea-956b-953a6686c7ad" data-type="address">
+  <dt>
+    <span class="preview-contact-not_required_label form-preview-not-reqiured">任意</span>
+    <span>住所（すべて）</span>
+  </dt>
+  <dd>
+        <dl class="form-preview-dl-child">
+          <dt>郵便番号</dt>
+          <dd>
+            <input type="text" name="j_zip_code_1" class="form-preview-input01 form-preview-input01-half" style="width: 68px;" />
+            -
+            <input type="text" name="j_zip_code_2" class="form-preview-input01 form-preview-input01-half" style="width: 68px;" />
+            <input class="form-preview-input01" id="jpostal-execute" type="button" style="width: 66px;" value="自動入力">
+            <p class="form-preview-alert-text"></p>
+          </dd>
+        </dl>
+        <dl class="form-preview-dl-child">
+          <dt>都道府県</dt>
+          <dd>
+            <select name="j_pref_name" class="form-preview-input01"><option value="">選択してください</option><option value="北海道">北海道</option>
+<option value="青森県">青森県</option>
+<option value="岩手県">岩手県</option>
+<option value="宮城県">宮城県</option>
+<option value="秋田県">秋田県</option>
+<option value="山形県">山形県</option>
+<option value="福島県">福島県</option>
+<option value="茨城県">茨城県</option>
+<option value="栃木県">栃木県</option>
+<option value="群馬県">群馬県</option>
+<option value="埼玉県">埼玉県</option>
+<option value="千葉県">千葉県</option>
+<option value="東京都">東京都</option>
+<option value="神奈川県">神奈川県</option>
+<option value="新潟県">新潟県</option>
+<option value="富山県">富山県</option>
+<option value="石川県">石川県</option>
+<option value="福井県">福井県</option>
+<option value="山梨県">山梨県</option>
+<option value="長野県">長野県</option>
+<option value="岐阜県">岐阜県</option>
+<option value="静岡県">静岡県</option>
+<option value="愛知県">愛知県</option>
+<option value="三重県">三重県</option>
+<option value="滋賀県">滋賀県</option>
+<option value="京都府">京都府</option>
+<option value="大阪府">大阪府</option>
+<option value="兵庫県">兵庫県</option>
+<option value="奈良県">奈良県</option>
+<option value="和歌山県">和歌山県</option>
+<option value="鳥取県">鳥取県</option>
+<option value="島根県">島根県</option>
+<option value="岡山県">岡山県</option>
+<option value="広島県">広島県</option>
+<option value="山口県">山口県</option>
+<option value="徳島県">徳島県</option>
+<option value="香川県">香川県</option>
+<option value="愛媛県">愛媛県</option>
+<option value="高知県">高知県</option>
+<option value="福岡県">福岡県</option>
+<option value="佐賀県">佐賀県</option>
+<option value="長崎県">長崎県</option>
+<option value="熊本県">熊本県</option>
+<option value="大分県">大分県</option>
+<option value="宮崎県">宮崎県</option>
+<option value="鹿児島県">鹿児島県</option>
+<option value="沖縄県">沖縄県</option></select>
+          </dd>
+        </dl>
+        <dl class="form-preview-dl-child">
+          <dt>市区町村</dt>
+          <dd>
+            <input type="text" name="j_city_name" class="form-preview-input01" />
+          </dd>
+        </dl>
+        <dl class="form-preview-dl-child">
+          <dt>住所1</dt>
+          <dd>
+            <input type="text" name="j_address_1" class="form-preview-input01" />
+          </dd>
+        </dl>
+        <dl class="form-preview-dl-child">
+          <dt>住所2</dt>
+          <dd>
+            <input type="text" name="j_address_2" class="form-preview-input01" />
+          </dd>
+        </dl>
+  </dd>
+</dl>
+<script>
+  (function(){
+    $('.preview-form-group :input[name="j_zip_code_1"]').jpostal({
+      click: '.preview-form-group #jpostal-execute',
+      postcode: [
+        '.preview-form-group :input[name="j_zip_code_1"]',
+        '.preview-form-group :input[name="j_zip_code_2"]'
+      ],
+      address: {
+        '.preview-form-group :input[name="j_pref_name"]': '%3',
+        '.preview-form-group :input[name="j_city_name"]': '%4',
+        '.preview-form-group :input[name="j_address_1"]': '%5'
+      }
+    });
+  }).call(this);
+</script>
+
+              <dl class="form-preview-dl preview-tel_no" id="contact-field-preview-33dda465-29d5-40db-8e89-c2bfe1201294">
+  <dt>
+    <span class="preview-contact-required_label form-preview-reqiured">必須</span>
+    <span>電話番号</span>
+  </dt>
+  <dd>
+    <input type="text" name="phone_number" class="form-preview-input01" />
+    <p class="form-preview-help-text"></p>
+    <p class="form-preview-alert-text"></p>
+  </dd>
+</dl>
+
+              <dl class="form-preview-dl preview-email" id="contact-field-preview-40871bf9-53a5-4064-857a-99c1eea83798">
+  <dt>
+    <span class="preview-contact-required_label form-preview-reqiured">必須</span>
+    <span>メールアドレス</span>
+  </dt>
+  <dd>
+    <input type="text" name="email" class="form-preview-input01" />
+    <p class="form-preview-help-text"></p>
+    <p class="form-preview-alert-text"></p>
+  </dd>
+</dl>
+
+              <dl class="form-preview-dl preview-is_expect_mail" id="contact-field-preview-30b077d2-c1cd-4afd-b3d7-06c91d5b6419">
+  <dt>
+    <span class="preview-contact-required_label form-preview-reqiured">必須</span>
+    <span>当社からのご案内</span>
+  </dt>
+  <dd>
+    <label>
+      <input type="radio" name="accept_email" value="accept" />
+      <span class="hope_to_text labeled_text">希望する</span>
+    </label>
+    <label>
+      <input type="radio" name="accept_email" value="reject" />
+      <span class="hope_to_text labeled_text">希望しない</span>
+    </label>
+    <p class="form-preview-help-text"></p>
+    <p class="form-preview-alert-text"></p>
+  </dd>
+</dl>
+
+              <dl class="form-preview-dl preview-single-select-20250404163321519" id="contact-field-preview-b6c4a5f8-cd1d-4271-afcf-1ffe782dae25">
+  <dt>
+    <span class="preview-contact-required_label form-preview-reqiured">必須</span>
+    <span>現在のソフト利用状況</span>
+  </dt>
+  <dd>
+    <select name="select-20250404163321519" class="form-preview-input01"><option value="">選択してください</option><option value="no_option_何も介護ソフトを利用していない">何も介護ソフトを利用していない</option>
+<option value="no_option_他社介護ソフトを利用中">他社介護ソフトを利用中</option>
+<option value="no_option_乗り換えを検討中">乗り換えを検討中</option>
+<option value="no_option_その他">その他</option></select>
+    <input type="hidden" name="select-20250404163321519_key" class="hidden" autocomplete="off" />
+    <input type="hidden" name="select-20250404163321519_key_value" class="hidden" autocomplete="off" />
+    <p class="form-preview-help-text"></p>
+    <p class="form-preview-alert-text"></p>
+  </dd>
+</dl>
+
+              <dl class="form-preview-dl preview-textarea-1" id="contact-field-preview-b1e9cfdd-2e50-496c-914c-45186904d79c">
+  <dt>
+    <span class="preview-contact-required_label form-preview-reqiured">必須</span>
+    <span>ご意見・ご要望</span>
+  </dt>
+  <dd>
+    <textarea name="text_area-1" class="form-preview-input01" style="resize:none;" rows="5">
+</textarea>
+    <p class="form-preview-help-text"></p>
+    <p class="form-preview-alert-text"></p>
+  </dd>
+</dl>
+
+              <dl class="form-preview-dl preview-personal-info" id="contact-field-preview-49daae73-5c01-4cfa-839a-9e583d326316">
+  <dt>
+    <span class="preview-contact-required_label form-preview-reqiured">必須</span>
+    <span>個人情報の取扱規程</span>
+  </dt>
+  <dd>
+    <label>
+      <input type="checkbox" name="agreement" value="on" />
+      <span class="labeled_text">個人情報の取扱規程に同意する</span>
+    </label>
+    <p class="form-preview-help-text">当社の<a href="https://www.fc-soft.jp/privacy/" target="_blank" rel="noopener">個人情報の取扱規程<span class="sr-only">新しいWindowで開きます</span></a>について同意される方のみ送信できます。</p>
+    <p class="form-preview-alert-text"></p>
+  </dd>
+</dl>
+
+        </div>
+        <div align="center" class="show-page-btn" id="input-page-btn">
+            <button name="button" type="submit" id="preview-contact-submit" class="btn" data-disable-with="&lt;i class=&quot;fa fa-spinner fa-spin&quot;&gt;&lt;/i&gt; 確認">確認</button>
+        </div>
+      </div>
+      <div id="confirm-fields" style="display:none;"></div>
+      <div class="form-preview-alert-text" id="help-exclude-info-recaptcha" style="display: none;"><span>送信に失敗しました。少し時間を空けてから再度お試しください。</span></div>
+</form>    <script src="https://www.google.com/recaptcha/api.js?render=6Lc-usEqAAAAAKQSEMUPT-kHihihSr_5-C-9iSS8"></script>
+    <script>
+      (function(){
+        $('#rc-form .verify').on('click', function(e) {
+        this.disabled = true;
+        this.innerHTML = '<i class="fa fa-spinner fa-spin"></i> ' + '送信'
+          e.preventDefault();
+          grecaptcha.ready(function() {
+            grecaptcha.execute('6Lc-usEqAAAAAKQSEMUPT-kHihihSr_5-C-9iSS8', {action:'submit'}).then(function(token) {
+              $('#recaptcha-res').remove();
+              $('#form-fields').prepend('<input type="hidden" name="recaptcha_response" id="recaptcha-res" value="' + token + '">');
+              Rails.fire($("#rc-form")[0], "submit");
+            });
+          });
+        });
+      }).call(this);
+    </script>
+</div>
+
+</body>
+</html>
