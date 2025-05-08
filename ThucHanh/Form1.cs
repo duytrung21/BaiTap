@@ -68,15 +68,17 @@ namespace ThucHanh
 
                 //tạo HTML để hiển thị
                 var sortedList = rssItems.OrderByDescending(a => a.PubDate).Take(10).ToList(); //sắp xếp theo ngày mới nhất
-                string text = "<table style='width: 100%'>"; 
+                string text1 = "<table style='width: 100%'>"; 
+                string text2 = "<table style='width: 100%'>"; 
                 foreach (RssItem serviceInfo in sortedList)
                 {
                     string desc = serviceInfo.Description.Replace("\n", "<br>");
-                    text += $"<tr valign='top'><td style='width:350px;'>{serviceInfo.PubDate}</td><td style='width: 20px;'>&nbsp;</td><td><h3>{serviceInfo.Title}</h3>{desc}<hr/></td></tr>"; 
+                    text1 += $"<tr valign='top'><td style='width:350px;'>{serviceInfo.PubDate}</td><td style='width: 20px;'>&nbsp;</td><td><h3>{serviceInfo.Title}</h3>{desc}<hr/></td></tr>"; 
                 }
-                text += "</table></body></html>";
-                //text += "<a href=\"https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/R0704_menu.pdf\" target=\"_blank\" rel=\"noopener\">詳しくはこちら</a>"; //test link
-                webView21.NavigateToString(text);
+                text1 += "</table></body></html>";
+                //text1 += "<a href=\"https://s3-ap-northeast-1.amazonaws.com/fcdownload/PDF/R0704_menu.pdf\" target=\"_blank\" rel=\"noopener\">詳しくはこちら</a>"; //test link
+                text2 += text1.Replace(" target=\"_blank\" rel=\"noopener\"", "");//bỏ target = blank để hiển thị thông tin trên Chorme
+                webView21.NavigateToString(text2);
             }
             catch (Exception ex)
             {
